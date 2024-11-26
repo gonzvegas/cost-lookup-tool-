@@ -1,0 +1,926 @@
+Category,Description,Part Number,Item Type,Routing Step,Sub Category,Unit Weight,Stock Unit,Total Material Cost
+06-Packaging,Sticker; Removable; White; Monarch 1131; .75in x .44in,0606-9577,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.02 
+06-Packaging,Sleeve; (KT: RTH-Family); Grilled Chicken Fettuccine; v.5,0605-11201E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.26 
+02-Produce,Lemon; Choice; Whole; 1ea,0201-4197,Raw Material,Item Place (Bags),01-Whole,0,Each, $0.33 
+05-Dairy,"Butter; Cheddar Bacon; Puck; Butterball #888-933; 30g; 1oz, COA req",0501-9397,Raw Material,Item Place,01-Butter,0,Each, $0.42 
+04-Flavor,Juice; Lime; 15g; .5oz,0403-10030,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0,Each, $0.46 
+04-Flavor,BULK; 6/6lb; Sauce; Pizza; Free from HFCS; Kagome #942306,0401-10368,Raw Material,Deposit,01-Sauces,1,Pound, $0.99 
+02-Produce,Green Beans; 113g; 4oz,0202-9799,Raw Material,Item Place (Bags),02-Fresh,0.25,Each, $1.02 
+02-Produce,Potatoes; Red; Grade B; Whole; Bagged; 226g; 8oz,0202-10155,Raw Material,Item Place (Bags),02-Fresh,0.5,Each, $1.06 
+02-Produce,BULK; 4/5lb; Carrot; Shredded; V-cut,0202-10033,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $1.33 
+03-Starch,Tomatoes-Okra-Corn; Canned; Glory Foods Simply Seasoned; 425g; 15oz,0304- 8812,Raw Material,Item Place (Bags),04-Canned,0,Each, $1.70 
+02-Produce,BULK; 4/5lb; Onion; Yellow; Diced .25in,0202-9712,Raw Material,Volume Scoop,02-Fresh,1,Pound, $1.76 
+02-Produce,BULK; Veggie Blend; (Pepper; Green; Celery; Red Onion); Diced .5in,0202-10386,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $2.71 
+04-Flavor,BULK; 6/1gal; Oil; Blend; 90% Canola; 10% EVOO; Colavita #L116,0403-9409,Raw Material,Deposit (By Hand),03-Oil/Vinegar/Juice/Broth,1,Pound, $3.26 
+02-Produce,BULK; Broccoli; Buds,0202-9402,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $3.51 
+03-Starch,BULK; 1/10.93lb; Lasagna Sandwich; with Cheese; Bernardi #77071,0302-10490,Raw Material,Item Count,02-Cooked,1,Pound, $3.63 
+04-Flavor,BULK; 1/50lb; Seasoning; Lemon Pepper; Elite 56136A2 v.1,0404-9416,Raw Material,Sprinkle,04-Spices,1,Pound, $4.14 
+02-Produce,BULK; Cauliflower; Buds,0202-9404,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $5.00 
+04-Flavor,BULK; 1/5lb; Seed; Sesame; White; Toasted; Woodland #H110,0405-10502,Raw Material,Sprinkle,05-Nuts/Seeds/Dried Fruit,1,Pound, $5.31 
+02-Produce,BULK; 4/5lb; Onion; Green; Scallion; Sliced .25in,0202-9711,Raw Material,Volume Scoop,02-Fresh,1,Pound, $5.46 
+02-Produce,BULK; 6/4.4lb; Olives; Kalamata; Sliced; Roland #71736,0205-11002,Raw Material,Volume Scoop,05-Preserved,1,Pound, $6.76 
+04-Flavor,BULK; 1/6.5lb; Chili; Red; Flakes,0404-10509,Raw Material,Sprinkle,04-Spices,1,Pound, $6.85 
+04-Flavor,BULK; 2/2lb; Puree; Garlic; SupHerb,0402-8067,Raw Material,Volume Scoop,02-Condiments,1,Pound, $8.00 
+04-Flavor,BULK; 1/5lb; Chili; Japones; Whole; Dried; De-Stemmed; Woodland,0405-10034,Raw Material,Volume Scoop,05-Nuts/Seeds/Dried Fruit,1,Pound, $8.71 
+04-Flavor,BULK; 1/90oz; Seasoning; Cajun; Salted,0404-10371,Raw Material,Sprinkle,04-Spices,1,Pound, $9.56 
+04-Flavor,BULK; 4/1lb; Puree; Ginger,0402-7723,Raw Material,Volume Scoop,02-Condiments,1,Pound, $10.00 
+06-Packaging,Sticker; Circle; 1.5in; Turquoise PMS563C; Semi-Gloss; $9.99 Price; All American #224307,0606-11060,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.01 
+06-Packaging,Sticker; Circle; 1.5in; Turquoise PMS563C; Semi-Gloss; $12.99 Price; All American #224308,0606-11061,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.01 
+06-Packaging,"Soaker Pad; White; Polyethylene; Absorbent Meat, Fish and Poultry; 4x7; Tite-Dri",0603-11311,Component,DTC,03-Inner Miscellaneous,0,Each, $0.01 
+06-Packaging,"Label, 4x6 Wrinkle Resistant",0606-21958,Component,DTC,06-Label,0,Each, $0.02 
+06-Packaging,Label; Direct Thermal; Industrial 3 in Core; White; 4x3,0606-10074,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.02 
+06-Packaging,Label; RPC; (Home Chef: RTH SS); White; BLANK; Direct Thermal; #140LDS; 3.875 x 2 in,0606-11337,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.02 
+06-Packaging,Label; Round; Adhesive; Clear; 1.5in; Uline #S-5503,0606-10783,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.02 
+06-Packaging,Label; RPC; (Kroger: RTC); Yellow; BLANK; Direct Thermal; #140LDS; 3.875 in x 2 in,0606-10980,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.02 
+06-Packaging,Gas; 100% Nitrogen,0602-10174,Component,No Labor,02-Gas,0,PSI, $0.03 
+06-Packaging,Label; Rectangular; Adhesive; Clear; 1x2 in,0606-10896,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.03 
+06-Packaging,Label; Direct Thermal; Industrial 3 in Core; White; 4x6,0606-6027,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.03 
+06-Packaging,"Label; Round; Green; ""NEW""; 55# Brilliant White Semi Gloss; 3x3in; Veritiv #7313",0606-2412001,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.03 
+06-Packaging,Film; Shrink Wrap; Cryovac CT303; 42 gauge; 20in WebWidth; Sealed Air,0604-11091,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.03 
+06-Packaging,"Tape, Box Machine - 3""",0609-2323,Component,DTC,09-OTHER MISC,0,Each, $14.95 
+06-Packaging,"Label; Dual Black ""Up"" Arrow; 3 x 4.25 in",0606-11316,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.03 
+06-Packaging,Label; Square; Blue; 2 Up Pallet Placard Label; Brilliant White Semi Gloss; 3x6in; Veritiv #7314,0606-2412002,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.04 
+06-Packaging,Label; Direct Thermal; Industrial 3 in Core; White; 4x10,0606-11190,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.04 
+06-Packaging,Label; Green #PMS802; BLANK; Direct Thermal; 4x6in; Landsberg #1548494,0606-11351,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.04 
+04-Flavor,Pepper; Red; Crushed; 1g; .04oz,0404-7299,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.06 
+06-Packaging,Label; Red; FRAGILE Handle with Care; This Side Up; Adhesive; 3x5in; Unwind #2,0606-11434,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.09 
+06-Packaging,Gas; Mix; 30% Nitrogen + 30% Oxygen + 40% Carbon Dioxide,0602-10176,Component,No Labor,02-Gas,0,PSI, $0.10 
+06-Packaging,Label; RPC; (Blue Apron: RTH); White; BLANK; Direct Themal; #140LDS; 6in x 4in,0606-10995,Component,Mastercase/ RPC Label,06-Label,0,Each, $0.03 
+06-Packaging,Bag; Protein-Sea; Plain Zip; 8x10; 2 mil,0601-6025,Component,Bag Placement,01-Food Containers,0,Each, $0.05 
+06-Packaging,Film; Lidding (1 compartment); Non-Perf; HighBarrier; Antifog; Peelable; LUMXL7AF; 9.8in WW; 1.8mil,0604-11334,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.05 
+06-Packaging,Film; Lidding (1 compartment); NonPerf; High Barrier; LUM XL7AF; 12.1in Web Width; 1.8mil,0604-11246,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.05 
+06-Packaging,Film; Lidding; (1 compartment); Non-Perf; HB-AL 45; Roll; 10.8in WebWidth; 1.8mil,0604-9346,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.06 
+06-Packaging,Bag; Machine; 8in x 10in x .002in,0601-9076,Component,Bag Placement,01-Food Containers,0,Each, $0.06 
+06-Packaging,C-wrap; (KT: RTH-Burrito) Southwest Style Chicken Burrito v.1,0605-11609,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,C-wrap; (KT: RTH-Burrito) Pork Carnitas Burrito v.1,0605-11610,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,C-wrap; (KT: RTH-Burrito) Pizza Burrito v.1,0605-11611,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,C-wrap; (KT: RTH-Burrito) Bean Rice and Cheese Burrito v.1,0605-11612,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,Label; C-wrap; (KT: RTH-Burrito); Pork Sausage Breakfast Burrito; v.1,0605-2405200,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,Label; C-wrap; (KT: RTH-Burrito); Meat Lovers Breakfast Burrito; v.1,0605-2405201,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,Label; (KT: RTH-Burrito F/S) Southwest Style Chicken Burrito,0605-2421106,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,Label; (KT: RTH-Burrito F/S) Southwest Style Chicken Burrito,0605-2421201,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,Label; (KT: RTH-Burrito F/S) Pork Sausage Breakfast Burrito,0605-2421202,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.07 
+06-Packaging,Film; Lidding (1 compartment); Perforated; HighBarrier; Antifog; Peelable; LUMXL7AF 9.8in WW; 1.8mil,0604-11335,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.09 
+06-Packaging,Film; Lidding (1 or 2 compartment); Perforated; Amcor 100000273777; 9.8in WebWidth; 2.6mil,0604-11615,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,Gas; Mix; 70% Nitrogen + 30% Carbon Dioxide,0602-10175,Component,No Labor,02-Gas,0,PSI, $0.06 
+06-Packaging,"Film; Lidding (1 compartment); Perforated; High Barrier, LUM XL7AF; 10.5"" Web Width; 1.8mil",0604-11499,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.09 
+06-Packaging,"Film; Lidding (1 compartment); Perforated; High Barrier, LUM XL7AF; 12.1in Web Width; 1.8mil",0604-11247,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.09 
+06-Packaging,Film; Lidding (1 compartment); Non-Perf; High Barrier; Toplex HB AL 45; 12.6 in Web Width; 1.8m,0604-11183,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.09 
+06-Packaging,Gas; Mix; 70% Oxygen + 30% Carbon Dioxide,0602-10177,Component,No Labor,02-Gas,0,PSI, $0.09 
+06-Packaging,Film; Lidding (1 compartment); Non-Perf; Peelable; EVA200HPP; NonHC; 9.8in WebWidth; 2.1mil,0604-11092,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,Film; Lidding (1 compartment); Perforated; High Barrier; Toplex HB AL 45; 12.6 in Web Width; 1.8m,0604-11184,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,Film; Lidding; (1 compartment); Perforated; HB-AL 45; Roll; 10.8in WebWidth; 1.8mil,0604-9550,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,Film; Lidding (1 compartment); Perforated; Amcor W2023-002809; 13.189in Web Width; 2.6mil,0604-11594,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,Film; Lidding (1 or 2 compartment); Perforated; Preferred Packaging OS-210; 9.8in WebWidth; 2 mil,0604-2412102,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,Film; Lidding; Perforated; Preferred Packaging #OS-280; 9.8in WebWidth; 2.5 mil,0604-2413101,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.10 
+06-Packaging,"Pad; Corrugated; 10.625"" x 7.5"" 32 ECT C Flute; Landsberg #FRER2300273",0607-11406,Component,DTC,07-Corrugate,0,Each, $0.10 
+06-Packaging,Film; Lidding (1 compartment); Perforated; Peelable; EVA200HPP; NonHC; 9.8in WebWidth; 2.1mil,0604-11104,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.18 
+06-Packaging,Sleeve; (HC: RTH-SS) Sunday Braised Beef; v.3,C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.15 
+06-Packaging,Film; Lidding (5 compartment); Perforated; PP-105OS280HBAFP; Roll; 10.5in WebWidth; 2.5mil; v.9,0604-9890,Component,Film for Tray Wipe & Sealing,04-Film,0,Foot, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Chicken Alfredo Penne,0605-11580,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Butter Chicken with Rice,0605-11581,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Pulled Pork with Rice and Black Beans,0605-11582,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Pork Chow Mein with Vegetables,0605-11583,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Pizza Pasta Bowl,0605-11584,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Pizza Pasta Bowl,0605-11585,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WIN: RTH-SS F/S) Rigatoni with Creamy Red Pepper Sauce,0605-11586,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Sunday Braised Beef; v.5,0605-11339E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Grilled Chicken Fettuccine Alfredo; v.5,0605-11338E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Cavatappi and Beef Meatballs; v.3,0605-11399C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Blackened Chicken with Mashed Potatoes; v.3,0605-11395C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Breaded Chicken with Penne Marinara; v.3,0605-11396C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Asian BBQ Style Chicken; V.2,0605-11562B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Chicken and Rice with Teriyaki Sauce; V.2,0605-11561B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS); Shrimp Penne; V.2,0605-2405906B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Garlic Herb Butter Salmon; V.2,0605-11400B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Beef Meatloaf with Loaded Mashed Potatoes; v.3,0605-11398C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Loaded Cavatappi and Cheese with Chicken; v.4,0605-11397D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Loaded Cavatappi and Cheese with Chicken; v.3,0605-11397C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Southwest Style Chicken Bowl,0605-2408101,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Grilled Chicken Alfredo with Fettuccine,0605-2408102,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Butter Chicken with Turmeric Rice,0605-2408103,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Linguine with Beef Meatballs & Marinara Sauce,0605-2408104,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Beef Broccoli Over Jasmine Rice,0605-2408105,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Shrimp Penne with Creamy Tomato Sauce,0605-2408106,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Everything Spiced Salmon with Mashed Potatoes & Green Beans,0605-2408107,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Cheese Enchiladas in Red Sauce,0605-2408108,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Cheese Ravioli Primavera,0605-2408109,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Mediterranean-Style Chicken with Brown Rice and Feta,0605-2408701,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Mac and Cheese,0605-2408702,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTC-SS); Loaded Mashed Potatoes,0605-2408703,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.13 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Yellow Thai-Style Coconut Chicken with Rice,0605-2422702,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.14 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Lemon Grilled Chicken with Orzo,0605-2422703,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.14 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Buffalo Style Mac N' Cheese with Chicken,0605-2422704,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.14 
+06-Packaging,C-Wrap; (WM PL: RTH-SS) Braised Beef and Mashed Potatoes,0605-2422705,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.14 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Garlic Parmesan Chicken; v.2 color change,0605-11120,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Sweet Chili Salmon; v.2 color change,0605-11118,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Rosemary Garlic Chicken; v.2 color change,0605-11119,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Shrimp Scampi; v.2 color change,0605-11114,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Honey Garlic Citrus Salmon; v.2 color change,0605-11117,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Citrus Chicken Breasts with rib meat,0605-11097,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Smoky Jalapeno Tequila Shrimp; v.2 color change,0605-11115,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Garlic Medley Shrimp; v.2 color change,0605-11113,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Everything Seasoned Salmon; v.2 color change,0605-11116,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+05-Dairy,Butter; Plain; Salted; Puck; Butterball #888-1000; 8.5g; .3oz; COA req,0501-10156,Raw Material,Item Place,01-Butter,0,Each, $0.14 
+04-Flavor,Mustard; Dijon; Packet; Legacy #711431; 34g; 1.2oz,0402-11463,Raw Material,Item Place (Bags),02-Condiments,0.075,Each, $0.15 
+06-Packaging,Sleeve; (HC: RTH-SS) Sunday Braised Beef; v.4,0605-11339D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Grilled Chicken Fettuccine Alfredo; v.4,0605-11338D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Blackened Chicken with Mashed Potatoes; v.2,0605-11395B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (KRG: RTH-SS) Blackened Chicken Penne Pasta; v.2,0605-11394B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Loaded Cavatappi with Cheese and Chicken; v.2,0605-11397B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Beef Meatloaf with Loaded Mashed Potatoes; v.2,0605-11398B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Garlic Herb Butter Salmon,0605-11400,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.15 
+06-Packaging,Pad; Corrugated; Meal Divider; Ovenable; Piedmont #131367,0607-11501,Component,DTC,07-Corrugate,0,Each, $0.15 
+06-Packaging,Sleeve; (ALDI: RTH-SS) Penne with Spicy Marinara and Meatballs,0605-11545,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.16 
+06-Packaging,Sleeve; (ALDI: RTH-SS) Alfredo Truffle Cavatappi with Kale,0605-11546,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.16 
+06-Packaging,Tray; Black; Rectangle; CPET (freezer/microwave/oven safe); Single Compartment; Amcor #23005,0601-11614,Component,Tray Placement,01-Food Containers,0,Each, $0.18 
+06-Packaging,Sleeve; (HC: RTH-SS) Breaded Chicken with Penne Marinara; v.2,0605-11396B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-SS) Cavatappi and Beef Meatballs; v.2,0605-11399B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,C-Wrap; (KRG: RTC-VAP) Everything Seasoned Salmon; v3,0605-11116C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.17 
+06-Packaging,Tray; Natural; Rectangle; CPET (freezer/microwave/oven safe); Dual Compartment; Amcor #23029,0601-11617,Component,Tray Placement,01-Food Containers,0,Each, $0.18 
+06-Packaging,Tray; Natural; Rectangle; CPET (freezer/microwave/oven safe); Single Compartment; Amcor #23005,0601-11616,Component,Tray Placement,01-Food Containers,0,Each, $0.18 
+06-Packaging,Bowl; Plastic; Foggy; Freezable; Microwaveable; 22.5 fl oz; R80 H45mm; PakWest #LU-BOWL45,0601-11006,Component,Tray Placement,01-Food Containers,0,Each, $0.18 
+05-Dairy,Butter; Lemon Caper; Puck; Butterball #888-791; 15g; .5oz; COA req,0501-10679,Raw Material,Item Place,01-Butter,0.03125,Each, $0.18 
+06-Packaging,Lid; Rectangular; Clear; PET; AntiFog; Corner Snap; Pak West #PKW21123_Lid V1A,0601-10566,Component,DTC,01-Food Containers,0,Each, $0.24 
+04-Flavor,Stock Concentrate; Chicken; Reduced Sodium; Savory Creations; 9.6g; .34oz,0402-2292,Raw Material,Item Place (Bags),02-Condiments,0,Each, $0.28 
+06-Packaging,Tray; Transparent; Freezable; Medium; 47mm; PA047F,0601-10511,Component,Tray Placement,01-Food Containers,0,Each, $0.21 
+06-Packaging,Tray; Black; Freezable; Medium; PA047F (Korean),0601-11234,Component,Tray Placement,01-Food Containers,0,Each, $0.21 
+04-Flavor,Seasoning Blend; Roasted Garlic and Herb; Unbranded; 1.7g; .06oz,0404-10285,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.22 
+06-Packaging,Sleeve; (HC: RTH-SS); Butter Chicken; V.2,0605-2405905B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.12 
+06-Packaging,Sleeve; (HC: RTH-FAM); Pasta with Uncured Pepperoni in Pizza Sauce,0605-11550,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-FAM) Chicken and Broccoli with Teriyaki Sauce; 840134310619,0605-2405902,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-FAM) Chicken Alfredo with Cavatappi Pasta and Peas,0605-2405901,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-FAM) Pasta with Uncured Pepperoni in Pizza Sauce; 840134310640,0605-2405903,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-FAM) Penne Pasta with Beef Meatballs; 840134310633,0605-2405904,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-SS); Butter Chicken,0605-2405905,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-SS); Shrimp Penne,0605-2405906,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-SS); Slow Cooked Braised Beef,0605-2405907,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-SS); Tomato Herb Butter Salmon,0605-2405908,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Southwest Style Chicken Bowl,0605-2408110,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Grilled Chicken Alfredo with Fettuccine,0605-2408111,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Honey Mustard Chicken with Sweet Potatoes,0605-2408112,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Sweet & Savory Chicken with Teriyaki Sauce & Rice,0605-2408113,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Loaded Mac n' Cheese with Chicken & Bacon,0605-2408114,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Homestyle Meatloaf with Mashed Potatoes,0605-2408115,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM); Cheese Enchiladas with Red Sauce,0605-2408116,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTC-SS); Chicken Enchiladas with Beans and Rice,0605-2408117,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-FAM) Chicken Alfredo with Cavatappi Pasta and Peas;V2,0605-2405901B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (HC: RTH-FAM); Beef Meatloaf with Loaded Mashed Potatoes,0605-2422701,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (KT: RTH-SS); Southwest Style Chicken Bowl; v.3,0605-11192C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+04-Flavor,Seed; Sesame; Toasted; White; 5g; .18oz,0405-7957,Raw Material,Item Place (Bags),05-Nuts/Seeds/Dried Fruit,0.01125,Each, $0.20 
+06-Packaging,C-Wrap; (WM PL: RTH-FAM) Orecchiette Marinara with Italian Sausage,0605-2422706,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.21 
+04-Flavor,Onion; Powder; 2g; .07oz,0404-11109,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.21 
+06-Packaging,Sleeve; (EVT: RTH SS) Linguine Marinara with Beef Meatballs,0605-11182,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (EVT: RTH SS) Butter Chicken with Tumeric Rice; v.3,0605-11333,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (EVT: RTH SS) Penne in Mushroom Sauce with Chicken,0605-11538,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.21 
+06-Packaging,Sleeve; (EVT: RTH SS) Rigatoni with Creamy Red Pepper Sauce and Sausage,0605-11539,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.21 
+06-Packaging,Sleeve; (EVT: RTH SS) Rotini in Savory Mushroom Sauce with Beef Meatballs,0605-11540,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.21 
+06-Packaging,Tray; Aluminum; AS220801; Standard; Shallow,0601-9285,Component,Tray Placement,01-Food Containers,0,Each, $0.22 
+03-Starch,Tortilla; Flour; 11in; Vegetarian; non-GMO; 75.5g; 2.67oz; Romeros #211320TJFR,0303-11688,Raw Material,"Tortilla Placement, Folding, and Wrapping",03-Bakery,0,Each, $0.22 
+06-Packaging,C-Wrap; (WM PL: RTC-FAM); Chicken Broccoli Casserole,0605-2408118,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.22 
+04-Flavor,Peanut; Halves; Dry Roasted; Unsalted; 20g; .7oz,0405-9715,Raw Material,Item Place (Bags),05-Nuts/Seeds/Dried Fruit,0,Each, $0.22 
+06-Packaging,Tray; Aluminum; 100mil; AS221000; Standard; Medium,0601-9286,Component,Tray Placement,01-Food Containers,0,Each, $0.23 
+06-Packaging,C-Wrap; (WM PL: RTC-FAM) Saucy Rigatoni with Sausage and Uncured Pepperoni,0605-2422707,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.23 
+06-Packaging,Tray; Transparent; Freezable; Medium; 49.5; PA047F (Korean),0601-11233,Component,Tray Placement,01-Food Containers,0,Each, $0.21 
+05-Dairy,"Butter; Honey Garlic with Herbs; Puck; Butterball #888-171; 15g; .5oz, COA req",0501-10497,Raw Material,Item Place,01-Butter,0,Each, $0.23 
+03-Starch,Noodle; Chow Mein; Dry; 15g; .5oz,0303-9688,Raw Material,Item Place (Bags),03-Bakery,0,Each, $0.23 
+05-Dairy,Butter; Tuscan Herb; 15g. .5oz,0501-10379,Raw Material,Item Place,01-Butter,0.03125,Each, $0.24 
+05-Dairy,"Butter; Garlic Parmesan; Puck; Butterball #888-087; 15g; .5oz, COA req",0501-9394,Raw Material,Item Place,01-Butter,0,Each, $0.24 
+05-Dairy,"Butter; Cajun with Hot Sauce; Puck; Butterball #888-165; 15g; .5oz, COA req",0501-10616,Raw Material,Item Place,01-Butter,0.03125,Each, $0.25 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Bacon Wrapped Chicken; version 3; ULI# AMZ102124V03,0605-11040,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Asparagus & Red Onions; Version 2; ULI# AMZ104104V02,0605-11283,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Broccoli & Cauliflower; Version 2; ULI# AMZ104103V02,0605-11284,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-NPK); Dan Dan Noodles; Version 3; V9; 20-0010-30; ULI# AMZ101030V03,0605-11281,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Garlic Herb & Roasted Potatoes; version 3; ULI# AMZ104100V03,0605-11286,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-NPK); Beef & Broccoli Stir-Fry; Version 2; V9; 20-0010-030; ULI# AMZ101029V02,0605-11282,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Brussel Sprouts & Red Onions; Version 3; ULI# AMZ104102V03,0605-11285,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Cajun Style Chicken; version 3; V9; ULI# AMZ102121V02,0605-11287,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,C-Wrap; (WIN: RTH-FAM F/S) Chicken Alfredo with Penne,0605-11587,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,C-Wrap; (WIN: RTH-FAM F/S) Cajun Style Mac & Cheese with Chicken,0605-11588,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,C-Wrap; (WIN: RTH-FAM F/S) Pizza Pasta Bowl,0605-11589,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Romesco Pork & Vegetables,0605-11666,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Mediterranean-Style Pork & Vegetables,0605-11667,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Kimchi Pulled Pork,0605-11668,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Shredded Beef & Riced Broccoli,0605-11670,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Mexican-Style Beef & Riced Cauliflower,0605-11671,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Kimchi Beef & Brown Rice,0605-11672,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Pesto Salmon & Mashed Potatoes,0605-11673,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Chickpeas & Kale,0605-11676,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Cilantro Pesto Chicken with Brown Rice,0605-11664,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Chickpeas & Kale; V.2,0605-11676B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+04-Flavor,Sauce; Harissa; Legacy #711965; 28.3g; 1oz,0401-24036000,Raw Material,Item Place (Bags),01-Sauces,0,Each, $0.24 
+06-Packaging,Tray; Cardboard; Corrugated; Square; 9.5in x 9.5in,0601-9538,Component,Tray Placement,01-Food Containers,0,Each, $0.25 
+05-Dairy,Butter; Everything Seasoned; Butterball #888-170; 15g; .5oz; COA req,0501-10615,Raw Material,Item Place,01-Butter,0,Each, $0.25 
+03-Starch,Tortilla; Flour; 12in; Vegetarian; Clean; 89.6g; 3.17oz; Romeros #212380TJPF,0303-11477,Raw Material,Item Place (Bags),03-Bakery,0.198125,Each, $0.28 
+06-Packaging,Tray; Black; Rectangle; CPET (freezer/microwave/oven safe); Dual Compartment; Amcor #23029,0601-2421203,Component,Tray Placement,01-Food Containers,0,Each, $0.18 
+06-Packaging,Sleeve; (HC: RTH-SS) Chicken and Rice with Teriyaki Sauce,0605-11561,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.18 
+06-Packaging,Sleeve; (HC: RTH-SS) Asian BBQ Style Chicken,0605-11562,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.18 
+06-Packaging,Belly Band; (PBX: RTC-MK) Bacon Cheddar Chicken,0605-10765,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Belly Band; (PBX: RTC-MK) Chicken and Zucchini Puttanesca Pasta,0605-11528,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Belly Band; (PBX: RTC-MK) Crispy Honey-Dijon Pork with Potatoes and Green Beans,0605-11526,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Belly Band; (PBX: RTC-MK) Bacon Cheddar Chicken; V.2,0605-10765B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Belly Band; (PBX: RTC-MK) Chicken and Zucchini Puttanesca Pasta; V.2,0605-11528B,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Belly Band; (PBX: RTC-MK) Crispy Honey-Dijon Pork with Potatoes and Green Beans; V.2,0605-11526B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Lid; DRC; (ALDI: RTH-SS); Corrugate; 16.4x6.6x6.1in; Landsberg #FER2307848,0607-11490,Component,DTC,07-Corrugate,0,Each, $0.25 
+05-Dairy,Butter; Roasted Garlic Herb; Puck; Epicurean; 15g; .5oz; COA req,0501-10498,Raw Material,Item Place,01-Butter,0,Each, $0.25 
+04-Flavor,Spice Blend; Chili; Powder; 1g; .04oz,0404-8019,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.27 
+06-Packaging,Belly Band; (PBX: RTC-MK) Tikka Masala Chicken with Rice and Cauliflower,0605-11386,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,Belly Band; (PBX: RTC-MK) Tikka Masala Chicken with Rice and Cauliflower; V.2,0605-11386B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+04-Flavor,Spice Blend; Paprika 90% - Tumeric 10%; 3g; .1oz,0404-10799,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.29 
+05-Dairy,"Butter; Chili Lime; Puck; Epicurean; 0.5oz, COA req",0501-11153,Raw Material,Item Place,01-Butter,0.03125,Each, $0.33 
+03-Starch,Breadcrumbs; Panko; Italian Seasoned; 15g; .5oz,0303-9716,Raw Material,Item Place (Bags),03-Bakery,0,Each, $0.34 
+06-Packaging,Sleeve; (KT: RTH-FAM) Chicken Enchiladas with Rice and Peppers,0605-11460,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Loaded Mac and Cheese; v.3,0605-11203C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Chicken with Rice and Teriyaki Sauce,0605-11459,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Linguine with beef meatballs in marinara; v.4,0605-11195D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Southwest Style Chicken Bowl; v.3,0605-11200D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Cheese Ravioli Primavera; v.3,0605-11230D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS); Beef Broccoli with Jasmine Rice; V4,0605-11196D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Alfredo Truffle Rotini with Spinach; V3,0605-11457C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Cheese Enchiladas with Beans and Corn;  v.4,0605-11229D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Honey Mustard Chicken with Sweet Potatoes,0605-11458,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Butter Chicken with Turmeric Rice; v.3,0605-11202C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Southwest Style Chicken Bowl; v.3,0605-11200C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Parmesan Bow Tie Chicken with Baby Spinach; v.3,0605-11235C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Grilled Chicken Fettuccine Alfredo; v.3,0605-11193C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Cheese Enchiladas with Beans and Corn; v.3,0605-11229C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Cheese Enchiladas with Rice & Beans; v.3,0605-11205C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Alfredo Truffle Rotini with Spinach; v.2,0605-11457B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Wild Caught Everything Spice Salmon; v.3,0605-11198C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Butter Chicken with Turmeric Rice; v.3,0605-11194C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Linguine with beef meatballs in marinara; v.3,0605-11195C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Beef Broccoli with Jasmine Rice; v.3,0605-11196C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Shrimp Penne in Creamy Tomato Sauce; v.3,0605-11197C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Bacon Cheddar Chicken; v.3,0605-11220C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) BBQ Smoky Pork Chops with Rice Pilaf and Spinach; v.4,0605-11222D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Skirt Steak with Garlic Mashed Potatoes; v.3,0605-11223C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Cheese Ravioli Primavera; v.3,0605-11230C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,(KT: RTH-SS); Grilled Chicken Fettuccine Alfredo; v.4,0605-11193D,Component,DTC,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS); Shrimp Penne in Creamy Tomato Sauce; v.4,0605-11197D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-Family); Honey Mustard Chicken with Sweet Potatoes; v.2,0605-11458B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Pizza Pasta Bowl with Uncured Pepperoni & Seasoned Tomato Sauce,0605-2407901,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,Sleeve; (MS: RTH-SS) Indian-Style Butter Chicken with Turmeric Basmati Rice,0605-2407902,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,Sleeve; (MS: RTH-SS) Cheese Enchiladas; V.2,0605-11275B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Southwest Style Chicken Bowl,0605-11530,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Butter Chicken with Turmeric Rice,0605-11531,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Loaded Mac & Cheese,0605-11532,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Burgundy Beef and Mashed Potatoes,0605-11533,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Linguine with Beef Meatballs in Marinara,0605-11534,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Beef Broccoli with Jasmine Rice,0605-11535,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Cheese Enchiladas with Beans and Corn,0605-11536,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+06-Packaging,C-Wrap; (DM: RTH-SS) Cheese Ravioli Primavera,0605-11537,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.27 
+04-Flavor,Vinaigrette; Honey Mustard; Pacifica #02892; 60g; 2oz,0403-9981,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0.125,Each, $0.34 
+06-Packaging,Sleeve; (MS: RTH-SS) Lemon Chicken Piccata,0605-11354,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.29 
+05-Dairy,Cheese; Chef Blend; 4 State Cheddar; 30g; 1oz; Sargento #DHM-2007-03 A,0503-10764,Raw Material,Item Place (Bags),03-Cut cheese,0.0625,Each, $0.31 
+06-Packaging,Sleeve; (KT: RTC-SS) Alfredo Truffle Cavatappi with Spinach; v.4,0605-11210D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Shrimp Paella; v.3,0605-11212C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Cheesy Guajillo Chicken,0605-11271,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Chicken Rigatoni Alfredo,0605-11270,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Loaded Mac and Cheese,0605-11272,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Homestyle Egg Noodles with Beef Meatballs,0605-11273,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Cheese Enchiladas Rojo,0605-11275,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Beef Broccoli with White Rice; v.3,0605-11204C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Honey Mustard Pork Tenderloin; v.4,0605-10637D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Spanish Style Shrimp and Chorizo Risotto; v.3,0605-11225C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Sweet and Sour Shrimp Bowl with Basmati Rice; v.4,0605-11224D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Three Cheese Lasagna with Spinach; v.3,0605-11218C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Three Cheese Lasagna with Green Beans; v.4,0605-11211D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Sweet Chile Salmon with Hibachi Rice; v.3,0605-11209C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Truffle Butter Pasta Alfredo,0605-11356,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (AMZ: RTC-NPK) Butter Chicken Curry; ?version 1; V9; 20-0010-030; ULI# AMZ102111V02,0605-10833,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-NPK) Chicken Fajita Bowl; version 1; V9; ?20-0010-030; ULI# AMZ102114V02,0605-10832,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Belly Band; (PBX: RTC-MK) Parmesan Chicken Bowtie Pasta,0605-10382,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Belly Band; (PBX: RTC-MK) Parmesan Chicken Bowtie Pasta; V.2,0605-10382B,Component,Mastercase/ RPC Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (PBX: RTC-Fam); Sweet and Spicy Jerk Chicken Thighs,0605-11541,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (PBX: RTC-Fam); Spicy Pineapple Chicken Thighs with Rice and Vegetables,0605-11542,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (PBX: RTC-Fam); Maple Pork with Sweet Potatoes and Brussels Sprouts,0605-11543,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (KT: RTC-MK) Skirt Steak,0605-10814,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (PBX: RTC-Fam); Spicy Pineapple Chicken Thighs with Rice and Vegetables; V2,0605-11542B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (KT: RTC-MK) Spanish Style Shrimp and Chorizo Risotto,0605-10815,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (KT: RTC-MK) Sweet and Sour Shrimp Bowl,0605-10808,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Sleeve; (PBX: RTC-Fam) Miso Ginger Chicken Thighs with Chow Mein Noodles and Vegetables,0605-2422802,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,"Sleeve; (PBX: RTC-Fam) Chicken Teriyaki with Chicken Thighs, Rice, Teriyaki Sauce, and Vegetables",0605-2422803,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.30 
+06-Packaging,Tray; Aluminum; 125mil; AS221000; Standard; Medium,0601-10634,Component,Tray Placement,01-Food Containers,0,Each, $0.31 
+06-Packaging,Sleeve; (MS: RTH-SS) Cheesy Penne Alfredo with Chicken,0605-11429,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.35 
+06-Packaging,Sleeve; (MS: RTH-SS) Penne with Chicken in Mushroom Sauce,0605-11428,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.35 
+06-Packaging,Sleeve; (MS: RTH-SS) Rotini in Savory Mushroom Sauce with Beef Meatballs,0605-11430,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.35 
+06-Packaging,Sleeve; (MS: RTH-SS) Beef Stir-Fry in Garlic Sauce with Rice,0605-11431,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.35 
+06-Packaging,Wrap; 5# Natural Kraft Brown; Burrito; 12x12in; Landsberg #1564159,0601-11495,Component,DTC,01-Food Containers,0,Each, $0.04 
+04-Flavor,Craisins; Dried; Ocean Spray; 33g; 1.16oz,0405-6560,Raw Material,Item Place (Bags),05-Nuts/Seeds/Dried Fruit,0,Each, $0.31 
+05-Dairy,Cheese; Parmesan; Shredded; 30g; 1oz; Sargento #10001116,0503-10722,Raw Material,Item Place (Bags),03-Cut cheese,0,Each, $0.33 
+04-Flavor,Sauce; Mesquite BBQ; Naturally Fresh #5061; 28g; 1 oz,0401-10871,Raw Material,Item Place (Bags),01-Sauces,0,Each, $0.34 
+06-Packaging,Tray; Rectangle; PP Clear; 58mm; PA0127,0601-10605,Component,Tray Placement,01-Food Containers,0,Each, $0.47 
+04-Flavor,Vinaigrette; Honey Balsamic; Pacifica #03014; 43g; 1.5oz,0403-10645,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0,Each, $0.36 
+06-Packaging,Sleeve; (KT: RTH-FAM) Beef Broccoli with White Rice,0605-11204,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+03-Starch,Breadcrumbs; Panko; Italian Seasoned; 30g; 1oz,0303-9941,Raw Material,Item Place (Bags),03-Bakery,0.0625,Each, $0.33 
+04-Flavor,Spice Blend; Italian; .85g; .03oz,0404-6735,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.39 
+05-Dairy,Butter; Black Truffle; Puck; Epicurean; 15g; .5 oz; Epicurean #10321; COA req,0501-11029,Raw Material,Item Place,01-Butter,0,Each, $0.48 
+06-Packaging,MISSING ARTWORK Sleeve; (ALB: RTH-SS F/S); Southwest Style Chicken with Vegetables,0605-2422902,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,ARTWORK MISSING Sleeve; (ALB: RTH-SS F/S); Chow Mein with Chicken and Vegetables,0605-2422903,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,ARTWORK MISSING Sleeve; (ALB: RTH-SS F/S); Pesto Alfredo Chicken with Farfalle Pasta,0605-2422904,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,ARTWORK MISSING Sleeve; (ALB: RTH-SS F/S); Pizza Pasta Bowl,0605-2422905,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.20 
+06-Packaging,Sleeve; (BA: RTH-SS) Chicken with Yakisoba; V.2,0605-11663B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.24 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Tomatillo Pulled Pork,0605-2417702,Raw Material,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAMILY F/S) Chicken Alfredo Penne,0605-2417703,Raw Material,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAMILY F/S) Rigatoni with Creamy Red Pepper Sauce,0605-2417704,Raw Material,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,ARTWORK MISSING  Sleeve; (BA: RTH-SS) Chicken Sausage & Mashed Potatoes,0605-2424309,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-Fam) Penne with Meatballs in Marinara Sauce; v.5,0605-10585E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Sundried Tomato Stuffed Chicken; V5,0605-10587E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Cashew Chicken with Honey Garlic Vegetables; v.4,0605-10636D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Honey BBQ Salmon with Garlic Potatoes; v.5,0605-10640E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Beef Meatloaf with Mashed Potatoes; v.5,0605-10736E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Sesame Ginger Beef with Fried Rice; v.4,0605-10737D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Loaded Mac and Cheese; v.4,0605-11203D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Shrimp Paella; v.5,0605-11212E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Cashew Chicken with Honey Garlic Vegetables; v.5,0605-11216E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Honey Balsamic Chicken with Roasted Vegetables; v.5,0605-11221E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) BBQ Smokey Pork Chops with Rice Pilaf and Spinach; v.6,0605-11222F,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Skirt Steak with Garlic Mashed Potatoes; v.5,0605-11223E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Parmesan Bow Tie Chicken with Baby Spinach; v.5,0605-11235E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Cajun Style Chicken with Sausage and Rice; v.3,0605-11381C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Jerk Chicken with Collard Greens and Beans; v.3,0605-11383C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Shrimp Scampi with Farfalle and Vegetables; v.3,0605-11385C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-Fam) Chicken and Cheese Enchiladas with Tomatillo Sauce,0605-11557,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Lightly Seasoned Chicken Breast Fillets with Rib Meat Smoke Flavor (4 ct),0605-11559,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Lightly Seasoned Chicken Breast Fillets with Rib Meat Smoke Flavor (8 ct),0605-11560,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Chicken with Rice in Teriyaki Sauce,0605-11578,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Ginger-Miso Chicken with Jasmine Rice & Vegetables,0605-11520,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Cavatappi in Marinara Sauce with Sausage,0605-11521,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Sweet Chili Beef Meatballs & Vegetables with Jasmine Rice,0605-11522,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Sesame-Soy Chicken with Brown Rice & Vegetables,0605-11523,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Chow Mein Noodles with Pork and Vegetables,0605-11525,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Pulled Pork Rotini & Cheese: V3,0605-11628C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Buffalo-Style Chicken with Mashed Potatoes; v.3,0605-11627C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Shredded Beef & Yakisoba; v.3,0605-11631C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sesame Turkey with Udon; v.3,0605-11647C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Garlic-Tahini Chicken with Chickpeas; V.2,0605-2412302B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Kung Pao Chicken & Tofu; V.2,0605-2412304B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Italian-Style Pork Tenderloin with Riced Cauliflower; v.2,0605-2412305B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sesame Tofu Grain Bowl; V.2,0605-2412310B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Garlic-Sesame Udon; V.2,0605-2412311B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Four-Cheese Enchiladas with Rice,0605-11637,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Truffle Cavatappi,0605-11639,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sesame Turkey Udon,0605-11647,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sausage & Four-Cheese Ravioli,0605-11651,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Chicken Alfredo Penne,0605-11641,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Butter Chicken with Rice,0605-11642,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Pulled Pork with Rice and Black Beans,0605-11643,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Cajun Style Mac and Cheese with Sausage,0605-11656,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Pizza Pasta Bowl,0605-11657,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Pork Chow Mein with Vegetables,0605-11658,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Southwestern-Style Turkey with Brown Rice; v.2,0605-11621B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Turkey with Brown Rice; v.2,0605-11622B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Pulled Pork Rotini & Cheese: V2,0605-11628B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Shredded Beef & Yakisoba; v.2,0605-11631B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Korean-Style Kimchi Rice; v.2,0605-11635B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Truffle Cavatappi; v.2,0605-11639B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sesame Turkey with Udon; v.2,0605-11647B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Soy-Miso Udon,0605-2406102,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Meatloaf with BBQ Sauce and Mashed Potatoes,0605-2407501,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Sunday Braised Beef with Mashed Potatoes,0605-2407502,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS F/S) Vegetable Chow Mein,0605-2408119,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Soy-Miso Chicken with Udon,0605-2408201,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Mexican-Style Chicken & Polenta Casserole,0605-2408202,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Mozzarella Smothered Chicken with Riced Cauliflower,0605-2408203,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Southwestern-Style Chicken Pasta,0605-2408205,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Four-Cheese Enchiladas with Rice; v.3,0605-11637C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Truffle Cavatappi; v.3,0605-11639C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Italian-Style Grilled Chicken with Sweet Potatoes; v.3,0605-11625C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Soy-Miso Udon; v2,0605-2406102B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Spiced Shredded Beef & Rice; v.3,0605-11630C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Chipotle-Cheddar Pork Sausage with Potatoes; v.3,0605-2408208C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Southwestern-Style Pork & Beans; V.2,0605-2408210B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sweet & Spicy Pork Tenderloin with Brown Rice; v.3,0605-2408211C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Chicken & Kale Farro Bowl,0605-2419301,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Veggie Curry,0605-2419302,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sweet & Spicy Tofu Udon,0605-2419303,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS)  Egg Bites & Green Chile Sauce,0605-2419901,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Pesto & Feta Smothered Egg Bites,0605-2419902,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Scrambled Eggs with Uncured Bacon,0605-2419903,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Southwestern-Style Egg Bites,0605-2419904,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Beef Bolognese with Penne Pasta; v.3,0605-11355C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Chicken & Quinoa Grain Bowl; v.3,0605-11624C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-Family) Beef Meatloaf with Mashed Potatoes; v.2,0605-11461B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Chicken with Riced Broccoli,0605-2412301,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Garlic-Tahini Chicken with Chickpeas,0605-2412302,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Garlic-Harissa Chicken with Riced Cauliflower,0605-2412303,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Kung Pao Chicken & Tofu,0605-2412304,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Italian-Style Pork Tenderloin with Riced Cauliflower,0605-2412305,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Shredded Beef & Garlic-Tahini Sauce,0605-2412306,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Beef Brisket & Parmesan Grits,0605-2412307,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS  Beef Patty & Creamy Mushroom Sauce,0605-2412308,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sesame Tofu Grain Bowl,0605-2412310,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Garlic-Sesame Udon,0605-2412311,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Basil Pesto Veggie Grain Bowl,0605-2412312,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Chicken Broccoli Casserole with Rice and Cheese; V6,0605-11207F,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Grilled Steak & Creamy Mushroom Sauce; v.2,0605-2412309B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Beef Brisket & Parmesan Grits; v.2,0605-2412307B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Beef Bolognese with Penne Pasta; v.2,0605-11355B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Moroccan Style Chicken with Turmeric Rice; v.3,0605-10735C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Savory Mac and Cheese; v.4,0605-11323D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Tomato-Basil Cavatappi with Meatballs; v.3,0605-11324C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Beef Meatloaf with Mashed Potatoes,0605-11461,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Wild Caught Everything Spice Salmon; V4,0605-11198D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Sesame Ginger Chicken with Rice; v.2,0605-11478,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Chimichurri Salmon Grain Bowl,0605-2421104,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Five-Cheese Smothered Beef Patty,0605-2421105,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Penne with Meatballs in Marinara Sauce; v.4,0605-10585D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Loaded Mac and Cheese; v.3,0605-11326C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Truffle Butter Pasta Alfredo; v.2,0605-11356B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Coconut Korma Chicken with Peas & Rice,0605-11524,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Chicken Enchiladas,0605-10635,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Lemon-Caper Pork with Parmesan Polenta; v.3,0605-10809C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Alfredo Truffle Rotini with Spinach,0605-11457,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Spicy Cavatappi Marinara with Beef Meatballs,0605-11467,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Mixed Vegetable Indian-Style Curry with Raisins,0605-11468,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Basil Pesto Veggie Grain Bowl; V.2,0605-2412312B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Southwestern-Style Turkey with Brown Rice,0605-11621,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Chicken with Chickpeas,0605-11623,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Chicken & Quinoa Grain Bowl,0605-11624,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Italian-Style Grilled Chicken with Sweet Potatoes,0605-11625,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Buffalo-Style Chicken with Mashed Potatoes,0605-11627,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Shredded Beef & Yakisoba,0605-11631,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Salmon & Riced Broccoli,0605-11632,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Korean-Style Kimchi Rice,0605-11635,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Four-Cheese Ravioli,0605-11636,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Smoked Pork & Basil Pesto,0605-2408209,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Southwestern-Style Pork & Beans,0605-2408210,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sweet & Spicy Pork Tenderloin with Brown Rice,0605-2408211,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Salmon & Parmesan Grits,0605-2408214,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Cajun-Style Mac & Cheese with Andouille Sausage,0605-2408503,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (MS: RTH-SS) Rigatoni with Creamy Red Pepper Sauce,0605-2408502,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Four-Cheese Ravioli & Asparagus,0605-2412313,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Salmon & Roasted Sweet Potatoes; v.3,0605-11633C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Pesto Chicken with Farro; v.3,0605-11649C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Lemon Piccata Chicken with Brown Rice; v.2,0605-11648B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Salmon & Chickpeas; v.3,0605-11652C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cilantro Pesto Chicken with Brown Rice; v.2,0605-11664B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Mexican-Style Beef & Riced Cauliflower; v.2,0605-11671B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Veggie Chili with Cheddar Cheese; v.2,0605-11674B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Indian Style Vegetable Curry; v.2,0605-11675B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Mexican-Style Chicken & Polenta Casserole; v.2,0605-2408202B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Kimchi Beef & Brown Rice; v.2,0605-11672B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Mozzarella Smothered Chicken with Riced Cauliflower; v.2,0605-2408203B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Cheesy Pulled Pork & Riced Broccoli; v2,0605-2408206B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Smoked Pork & Basil Pesto; v.2,0605-2408209B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sweet & Spicy Pork Tenderloin with Brown Rice; v.2,0605-2408211B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Salmon & Parmesan Grits; v.2,0605-2408214B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Salmon & Roasted Sweet Potatoes; v.4,0605-11633D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Coconut Korma Chicken with Rice; v.4,0605-11638D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Lemon Piccata Chicken with Brown Rice; v.3,0605-11648C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Pesto Chicken with Farro; v.4,0605-11649D,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cilantro Pesto Chicken with Brown Rice; v.3,0605-11664C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Mexican-Style Beef & Riced Cauliflower; v.3,0605-11671C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Kimchi Beef & Brown Rice; v.3,0605-11672C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Veggie Chili with Cheddar Cheese; v.3,0605-11674C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Indian Style Vegetable Curry; v.3,0605-11675C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Lemon-Caper Steak & Vegetables,0605-2415704,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Rustic Tomato Pesto & Mozzarella Polenta,0605-2415701,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Four-Cheese Ravioli; v.3,0605-11636C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Chicken Parmesan; v.3,0605-11626C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Chicken with Chickpeas; v.3,0605-11623C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Turkey with Brown Rice; v.3,0605-11622C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Chicken Katsu with Vegetables; v.3,0605-2408204C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cavatappi Beef Bolognese; v.3,0605-11629C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Egg Noodles with Beef Meatballs; V.2,0605-11669B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sausage & Four-Cheese Ravioli; V.2,0605-11651B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Smoked Pork with Honey BBQ Sauce; V.2,0605-11665B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Loaded Beef Brisket Bowl; v.3,0605-2408212C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Cheesy Pulled Pork & Riced Broccoli; v3,0605-2408206C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Mozzarella Smothered Chicken with Riced Cauliflower; v.3,0605-2408203C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Mexican-Style Chicken & Polenta Casserole; v.3,0605-2408202C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Cheesy Chipotle Rotini; v.3,0605-11634C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Sweet & Spicy Beef Udon; v.2,0605-2408213B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Pork & Yakisoba Noodles; v.2,0605-2408207B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Pesto Alfredo Chicken with Pasta; v.3,0605-11650C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Soy-Miso Chicken with Udon; v.2,0605-2408201B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Salmon & Roasted Sweet Potatoes; v.5,0605-11633E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Pesto Salmon & Mashed Potatoes; v.2,0605-11673B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS); Sesame-Ginger Salmon Grain Bowl; v.3,0605-2408215C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (BA: RTH-SS) Harissa Salmon & Chickpeas; v.5,0605-11652E,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+04-Flavor,Seasoning Blend; Lemon & Herb; 3.6g; .23oz,0404-11413,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.38 
+06-Packaging,Sleeve; (KT: RTC-FAM) Honey Mustard Pork Tenderloin,0605-11384,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.47 
+06-Packaging,Sleeve; (KT: RTC-FAM) Moroccan Style Chicken with Turmeric Rice; v.2,0605-11382B,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.47 
+06-Packaging,Tray; Black; Rectangle; CPET (freezer/microwave/oven safe); Single Compartment; Sabert 1000959,0601-11644,Component,Tray Placement,01-Food Containers,0,Each, $0.35 
+06-Packaging,Sleeve; (KT: RTH-SS) Chicken with Gravy and Mashed Potatoes,0605-10727,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-SS) Loaded Mac and Cheese,0605-10730,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+04-Flavor,Dressing; Honey Mustard; pouches; Legacy #607; 85g; 3oz,0403-10752,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0.1875,Each, $0.39 
+06-Packaging,Tray; Clear; PET; AntiFog; Single Cell; Deep 4.5in; Pak West #PKW21123_VacTray V1_450a,0601-10565,Component,Tray Placement,01-Food Containers,0,Each, $0.44 
+06-Packaging,Sleeve; (KT: RTH-FAM) Grilled Chicken Fettuccine,0605-10732,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.47 
+06-Packaging,Tray; Natural; Rectangle; CPET (freezer/microwave/oven safe); Single Compartment; Capri #11545FT,0601-2420101,Component,Tray Placement,01-Food Containers,0,Each, $0.17 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Parmigiana-Style Chicken Breast; version 1; ULI# AMZ102120V01,0605-10394,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Chipotle-Lime Chicken Breast; version 2; ULI# AMZ102125V01,0605-10829,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Lemon-Rosemary Chicken Breast; version 2; ULI# AMZ102123V01,0605-10828,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+06-Packaging,Sleeve; (AMZ: RTC-OR) Garlic & Herb Roasted Potatoes; version 2; ULI# AMZ104100V02,0605-10882,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.42 
+04-Flavor,Cashew; Pieces; Roasted; Salted; 30g; 1oz,0405-11257,Raw Material,Item Place (Bags),05-Nuts/Seeds/Dried Fruit,0.0625,Each, $0.43 
+06-Packaging,Tray; Rectangle; CPET; Black; 2-up; Amcor #23006,0601-11544,Component,Tray Placement,01-Food Containers,0,Each, $0.44 
+04-Flavor,Seasoning Blend; Roasted Garlic and Herb; Grillmates; McCormick; 3g; .11oz,0404-8149,Raw Material,Item Place (Bags),04-Spices,0.006875,Each, $0.32 
+05-Dairy,Butter; Roasted Garlic Herb; PUCK; Epicurean; 28.3g; 1oz; COA req,0501-11475,Raw Material,Item Place,01-Butter,0,Each, $0.47 
+05-Dairy,Butter; Roasted Garlic Herb; Packet; Epicurean; 28.3g; 1oz; COA req,0501-6169,Raw Material,Item Place,01-Butter,0,Each, $0.47 
+06-Packaging,Box; Mastercase; FR Logo+Arrows; Burrito Pack; 8x7x4.5; Landsberg #1573616,0607-11576,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.47 
+06-Packaging,Box; Mastercase (KT: RTC-FAM); Branded w/ Arrows; 2pk; 10.81 x 7.69 x 4.81; Landsberg,0607-11361,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.56 
+05-Dairy,"Butter; Herbed Sun-dried Tomato and Cheese; Puck; Butterball; 28g; 1 oz, COA req",0501-10488,Raw Material,Item Place,01-Butter,0,Each, $0.52 
+06-Packaging,Box; MasterCase; FR Logo+Arrows; 6pk; Freezer Friendly; Landsberg #1573033,0607-11568,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.59 
+06-Packaging,Box; Mastercase; Dept97; WM Logo+Arrows+Keep Refrigerated; 4pk; 12.8x8.3x4.2; Landsberg 1558020; v.2,0607-11340B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.59 
+06-Packaging,Box; Mastercase; Dept97; WM Logo+Arrows+Keep Refrigerated; 2pk; 10.9x8.5x5; Landsberg 1558019; v.2,0607-11341B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.58 
+04-Flavor,Oil; Sesame; 15g; 0.5oz,0403-8395,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0,Each, $0.54 
+06-Packaging,Box; Mastercase; Dept97; WM Logo+Arrows+Keep Refrigerated; 2pk; 10.8x7.7x4.8; Landsberg 1558021; v.2,0607-11343B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.58 
+06-Packaging,Box; MasterCase; FR Logo+Arrows+Keep Refrigerated; 4pk; Short; 12.2x8.2x5.3; Landsberg #1563703; v.2,0607-9450B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.77 
+05-Dairy,Cheese Blend; 4 Cheese Mexican; Shredded; Sargento #10000723; 60g; 2oz,0503-11078,Raw Material,Item Place (Bags),03-Cut cheese,0,Each, $0.52 
+06-Packaging,Box; MasterCase; FR Logo+Arrows+Keep Refrigerated; 2pk; 10x10x6; Landsberg #1563706; v.2,0607-9586B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.54 
+06-Packaging,Box; Mastercase; Dept97; WM Logo+Arrows+Keep Refrigertd; 4pk Tall 12.8x8.8x4; Landsberg 1558025; v.2,0607-11342B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.60 
+06-Packaging,Sleeve; (KT: RTH-FAM) Cheese Enchiladas with Rice & Beans,0605-11205,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Sundried Tomato Stuffed Chicken; v.3,0605-10587C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Chicken Broccoli Casserole with Rice and Cheese; v.3,0605-11214C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Beef Meatloaf with Mashed Potatoes; v.3,0605-10736C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Cashew Chicken with Honey Garlic Vegetables; v.3,0605-10636C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-SS) Honey BBQ Salmon with Garlic Potatoes; v.3,0605-10640C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTH-FAM) Grilled Chicken Fettuccine; v.3,0605-11201C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-MK) Honey Balsamic Chicken with Roasted Vegetables; v.3,0605-11221C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Alfredo Truffle Cavatappi with Spinach; v.3,0605-11217C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Cashew Chicken with Honey Garlic Vegetables; v.3,0605-11216C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Cajun Style Chicken with Sausage and Rice,0605-11381,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Shrimp Scampi with Farfalle and Vegetables,0605-11385,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Jerk Chicken with Collard Greens and Beans,0605-11383,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+06-Packaging,Sleeve; (KT: RTC-FAM) Pesto Chicken with Farfalle; v.3,0605-11215C,Component,Sleeve/C-Wrap Label,05-Marketing Components,0,Each, $0.37 
+04-Flavor,Sauce; Sweet and Sour; 113g; 4oz; Pacifica #03052,0401-10792,Raw Material,Item Place (Bags),01-Sauces,0,Each, $0.53 
+06-Packaging,Box; Mastercase; FR Logo+Arrows+Keep Refrigerated; 2pk; 10.8x7.7x4.8; Landsberg #1555769; v.2,0607-11361B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.58 
+06-Packaging,Box; Mastercase (KT: RTH-SS); Branded w/ Arrows; 4pk; 12.75 x 8.31 x 4.19; Landsberg,0607-11358,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.58 
+06-Packaging,Box; Mastercase (KT: RTH-FAM); Branded w/ Arrows; 2pk; 10.94 x 8.5 x 5; Landsberg,0607-11359,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.58 
+06-Packaging,Box; Mastercase; FR Logo+Arrows+Keep Refrigerated; 4pk; Tall 12.2x8.8x4; Landsberg #1555770; v.2,0607-11360B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.60 
+04-Flavor,BULK; 1/30lb; Sauce; Buffalo; Legacy #711950,0401-11605,Raw Material,Deposit,01-Sauces,1,Pound, $0.67 
+02-Produce,Olives; Kalmata; Pitted; No Brine; in Cup; Olives to Go; 38.75g; 1.4oz,0205- 11278,Raw Material,Item Place (Bags),05-Preserved,0,Each, $0.66 
+06-Packaging,Box; Mastercase (KT: RTC-MK); Plain; 2 pk; 16.31 x 9.44 x 5.38; Landsberg #F0201W,0607-10726,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.45 
+06-Packaging,Box; Mastercase (KT: RTH); Plain; 4pk; 12.75 x 8.31 x 4.19; Landsberg #F0201W,0607-10761,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.61 
+06-Packaging,Tray; Rectangle; Rolled Edge; Aluminum; 135mil; Coppice 1327SPL(V1),0601-11112,Component,Tray Placement,01-Food Containers,0,Each, $0.65 
+01-Protein,Bacon; Nitrate Free; Cooked; Crumbled; 30g; 1oz; Latitude36 #25134,0102-10830,Raw Material,Item Place (Bags),02-Land,0.0625,Each, $0.66 
+04-Flavor,Honey; Hot; Dip Cup; Mikes #MHH1DC90; 30g; 1oz,0402-11085,Raw Material,Item Place (Bags),02-Condiments,0,Each, $0.54 
+04-Flavor,Spice Blend; Parsley & Thyme; True Spice; .85g; .03oz,0404-11450,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.66 
+04-Flavor,Spice Blend; Italian; True Spice; .85g; .03oz,0404-11451,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.66 
+06-Packaging,Tray; 5 Cell; PETE; Without Anti-Fog; 258x218x81mm; 1150 microns; v9; 88g; #LU-FR5CV9-NAF,0601-10932,Component,Tray Placement,01-Food Containers,0,Each, $0.68 
+06-Packaging,Box; MasterCase; (AMZ: OR); 4 pk; Tall-Medium; 12 3/16 x 8 13/16 x 4; Landsberg,0607-9408,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.68 
+04-Flavor,Sauce; Marinara; 226g; 8oz,0401-8455,Raw Material,Item Place (Bags),01-Sauces,0.5,Each, $0.72 
+06-Packaging,Box; Mastercase; Plain; 44ECT; 17.625 X 10.438 X 6.375; Landsberg,0607-2408501,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.68 
+02-Produce,Slaw Mix; Vegetable (Red/Green Cabbage + Broccoli + Carrot); 283g; 10oz,0202-11051,Raw Material,Item Place (Bags),02-Fresh,0.625,Each, $1.70 
+06-Packaging,Box; Mastercase; (KT: RTC-FAM); Non-Branded; 2pk; 10.81 x 7.69 x 4.81; Landsberg #1540173,0607-11156,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.68 
+03-Starch,"Bulk, Rice; Arborio; Dry; 138g; 4.9oz",0301-8063,Raw Material,Item Place (Bags),01-Dry,0,Each, $0.71 
+04-Flavor,Tomatoes; Sun-Dried; Julienned; 60g; 2oz,0405-11122,Raw Material,Item Place (Bags),05-Nuts/Seeds/Dried Fruit,0,Each, $0.83 
+03-Starch,BULK; 1/50lb Potato; Russet; Diced .375 in; Roasted; Seasoned; Dickinson #104404; COA req,0302-11072,Raw Material,Volume Scoop,02-Cooked,1,Pound, $0.90 
+06-Packaging,Box; Mastercase (KT: RTH-FAM); Plain; 2pk; 10.94 x 8.5 x 5; Landsberg #F0201W,0607-10705,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.72 
+06-Packaging,Box; Mastercase; Dept97; WM Logo+Arrows+Keep Refrigerated; 2 pk 16.3x9.4x5.4; Landsberg 1558022; v.2,0607-11344B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.78 
+04-Flavor,Spice Blend; Garlic and Herb; TrueSpice; 3g; .11oz,0404-10763,Raw Material,Item Place (Bags),04-Spices,0,Each, $0.74 
+06-Packaging,Tray; Rectangle; Rolled Edge; Aluminum; 170mil; Coppice 1327SPL (V2),0601-11491,Component,Tray Placement,01-Food Containers,0,Each, $0.77 
+06-Packaging,Box; Mastercase; FR Logo+Arrows+Keep Refrigerated; 2pk; 16.3x9.4x5.4; Landsberg #1555771; v.2,0607-11362B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.71 
+06-Packaging,Box; Mastercase (KT: RTC-MK); Branded w/ Arrows; 2pk; 16.31 x 9.44 x 5.38; Landsberg,0607-11362,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.73 
+03-Starch,Polenta; Dry; Quick Cook; 85g; 3oz,0302-10762,Raw Material,Item Place (Bags),02-Cooked,0.1875,Each, $0.77 
+04-Flavor,Sauce; BBQ; Hickory Brown Sugar; Legacy #724090; 226g; 8oz,0401-11447,Raw Material,Item Place (Bags),01-Sauces,0,Each, $0.77 
+04-Flavor,BULK; 4/10lb; Sauce; Marinara; Kagome #942305,0401-9407,Raw Material,Deposit,01-Sauces,1,Pound, $0.83 
+06-Packaging,Box; MasterCase; FR Logo+Arrows; 8pk; Freezer Friendly; 15.8x12.3x4 in; Landsberg #1563219; v.2,0607-10597B,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.80 
+03-Starch,BULK; 1/40lb; Rice; Brown; Cooked; IQF; Seenergy #550-1004-0000; COA req,0302-11552,Raw Material,Volume Scoop,02-Cooked,1,Pound, $0.84 
+02-Produce,Onion; Red; Sliced .13in; 70g; 2.5oz,0202-7285,Raw Material,Item Place (Bags),02-Fresh,0.15625,Each, $0.61 
+04-Flavor,Dressing; Greek; Legacy #711916; 170g; 6oz,0403-11443,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0.375,Each, $0.87 
+03-Starch,BULK; 1/45lb; Bean; Chickpea/Garbanzo; Grade #1; IQF; Seenergy #510-1007-0000; COA req,0302-11143,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.03 
+02-Produce,BULK; 4/1GAL; Pepper; Jalapeno; Sliced; Roland #45772,0205-11574,Raw Material,Volume Scoop,05-Preserved,1,Pound, $2.00 
+06-Packaging,Box; Mastercase; (KT: RTC-Club); FR Branded w/ UP Arrows+Fragile; 11x11x11,0607-11454,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $0.86 
+03-Starch,Pasta; Bowtie; Dried; 142g; 5oz,0301-11433,Raw Material,Item Place (Bags),01-Dry,0,Each, $0.94 
+05-Dairy,Cheese; Parmesan; Fancy; Shredded; 85g; 3oz; Sargento #10000337,0503-10381,Raw Material,Item Place (Bags),03-Cut cheese,0.1875,Each, $0.87 
+03-Starch,Enchiladas; Chicken&Cheese; Los Cabos #64181; 85g; 3oz,0302-2414002,Raw Material,Item Count,02-Cooked,0,Each, $0.96 
+03-Starch,BULK; 1/45lb; Bean; Pinto; Cooked; IQF; Seenergy #510-1016-0000; COA req,0302-11146,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.03 
+04-Flavor,Sauce; Beef Broccoli; Pacifica #02637; 120g; 4.2oz,0401-9678,Raw Material,Item Place (Bags),01-Sauces,0.2625,Each, $0.90 
+04-Flavor,Sauce; Lemon Caper Piccata; 113g; 4oz; Pacifica #03051,0401-10791,Raw Material,Item Place (Bags),01-Sauces,0.25,Each, $0.92 
+01-Protein,Meatloaf; Beef; Sliced; Kings Command #72132; 85g; 3oz,0102-10425,Raw Material,Item Place (Bags),02-Land,0.1875,Each, $0.95 
+06-Packaging,Box; Open-Facing Tote; Corrugated; 17.8 x 14.3 x 8.3in,0607-11105,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $1.62 
+04-Flavor,BULK; 1/51lb; Sauce; Hickory Brown Sugar BBQ; Legacy #724086,0401-11379,Raw Material,Deposit,01-Sauces,1,Pound, $1.16 
+04-Flavor,Sauce; Korean BBQ; Legacy #724081; 283g; 10oz,0401-11254,Raw Material,Item Place (Bags),01-Sauces,0.625,Each, $0.91 
+04-Flavor,Oil; Canola; 30g; 1oz,0403-8113,Raw Material,Item Place (Bags),03-Oil/Vinegar/Juice/Broth,0,Each, $0.50 
+04-Flavor,Sauce; Bulgogi; Kagome #970030; 226g; 8oz,0401-11265,Raw Material,Item Place (Bags),01-Sauces,0.5,Each, $0.99 
+03-Starch,BULK; 1/45lb; Bean; Kidney; White; IQF; Seenergy #510-1022-0000,0302-2408205,Raw Material,Volume Scoop,02-Cooked,1,Pound, $0.99 
+03-Starch,Pasta; Spaghetti; Whole Wheat; Cooked; 170g; 6oz,0302-9956,Raw Material,Item Place (Bags),02-Cooked,0.375,Each, $1.00 
+06-Packaging,Box; MasterCase (AMZ: NPK); Plain; 4pk; 17.625 x 10.438 x 6.375; Landsberg,0607-9793,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $1.01 
+03-Starch,Pasta; Farfalle (Bowtie); Cooked; 226g; 8oz,0302-10383,Raw Material,Item Place (Bags),02-Cooked,0.5,Each, $1.00 
+02-Produce,BULK; 1/20lb; Carrot; Shoestring; IQF; Hanover; COA Required,0203-11593,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.12 
+02-Produce,Zucchini; Noodles .25in cut; 170g; 6oz,0202-9801,Raw Material,Item Place (Bags),02-Fresh,0.375,Each, $0.72 
+04-Flavor,Spice Blend; Cumin; (aka Chickpea Spice Blend); 8g; .28oz,0404-11261,Raw Material,Item Place (Bags),04-Spices,0.0175,Each, $1.06 
+06-Packaging,Box; DRC; (ALDI: RTH-SS); 6pack; Corrugate; 16.1x6..3x6in; Landsberg #FER2307847,0607-11489,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $1.06 
+03-Starch,BULK; 1/45lb; Bean; Red; Kidney; IQF; Cooked; Seenergy #510-1017-0000,0302-11180,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.09 
+03-Starch,Polenta; Cake with Garlic Confit; SV Cooked; (3oz pc); Cusine Solutions #03855,0302-11679,Raw Material,Item Count,02-Cooked,0.1875,Each, $1.18 
+01-Protein,Egg; Bites with Whitney Cheese & Chives; Sous Vide; 3Pigs #JECWF; 56.6g; 2oz,0105-2412001,Raw Material,Item Count,05-Egg,0.125,Each, $1.20 
+02-Produce,BULK; 1/20lb; Carrots; Organic; Diced .375in; Cooked; Sno Pac; COA req,0203-10700,Raw Material,Volume Scoop,03-Cooked,1,Pound, $0.94 
+06-Packaging,Box; Mastercase; (KT: RTC-Club); FR Branded w/ UP Arrows+Fragile; 13x13x13,0607-11455,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $1.11 
+03-Starch,BULK; 1/20lb; Pasta; Cavatappi; Cooked,0302-10564,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.18 
+03-Starch,BULK; 1/20lb; Pasta; Penne; Cooked; Nates,0302-10430,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.18 
+03-Starch,BULK; 1/20lb; Pasta; Rigatoni; Cooked; Nates,0302-10872,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.18 
+03-Starch,BULK; 6/5lb; Pasta; Elbow; Cooked,0302-10483,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.20 
+03-Starch,BULK; 1/25lb; Pasta; Orecchiette; Cooked; IQF; Nates,0302-2435001,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.15 
+04-Flavor,Sauce; Enchilada; Red; Mild; Custom Culinary #6577; 226g; 8oz,0401-11448,Raw Material,Item Place (Bags),01-Sauces,0,Each, $1.15 
+04-Flavor,Spice Blend; Korean BBQ; 9g; .32oz,0404-11263,Raw Material,Item Place (Bags),04-Spices,0.02,Each, $1.17 
+06-Packaging,RPC; Black; 9.46 in x 23.64in x 15.76in; Tosca #6423,0608-10994,Component,RPC Pack,08-RPC,0,Each, $1.28 
+02-Produce,Parsley; Italian; Whole; Fresh; 7g; .25oz,0204-7291,Raw Material,Item Place (Bags),04-Herb,0.15625,Each, $0.58 
+03-Starch,BULK; 1/25lb; Pasta; Farfalle; Cooked,0302-11170,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.15 
+04-Flavor,Spice Blend; Togarashi/Shichimi; 9g; .32oz,0404-11264,Raw Material,Item Place (Bags),04-Spices,0,Each, $1.21 
+02-Produce,BULK; 1/50lb; Potato; Sweet; Roasted; Peeled; Diced; .75in; Dickinson #103157; COA req,0302-11102,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.20 
+06-Packaging,Slip Sheet; Corrugated; (BA: RTH-SS); 48 x 40; Landsberg #1029145,0607-11346,Component,No Labor,07-Corrugate,0,Each, $2.34 
+02-Produce,Spinach; Baby; 60g; 2oz,0202-7479,Raw Material,Item Place (Bags),02-Fresh,0.125,Each, $1.02 
+03-Starch,Noodle; Chow Mein; 300g; 10.6oz,0302-10476,Raw Material,Item Place (Bags),02-Cooked,0.6625,Each, $1.10 
+03-Starch,BULK; 6/5lb; Pasta; Linguine; Vacuum Sealed; Cooked,0302-10427,Raw Material,Spaghetti / Noodle,02-Cooked,1,Pound, $1.20 
+03-Starch,BULK; 6/5lb; Pasta; Fettuccine; Vacuum Sealed; Cooked,0302-10418,Raw Material,Spaghetti / Noodle,02-Cooked,1,Pound, $1.20 
+03-Starch,BULK; 4/2.5lb; Pasta; Rigatoni; Cooked; IQF; Nates,0302-11373,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.28 
+03-Starch,BULK; 6/4; Rice; White; Cilantro Lime; IQF; Seenergy #525-1046-0000; COA req,0302-11591,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.32 
+02-Produce,BULK; 1/20; Butternut Squash; Diced .5in; IQF; Sno Pac; COA req,0203-11125,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.33 
+03-Starch,BULK; 6/5lb; Pasta; Fettuccine; Cooked; Chilled; Nates,0302-11655,Raw Material,Spaghetti / Noodle,02-Cooked,1,Pound, $1.33 
+03-Starch,BULK; 1/25lb; Pasta; Rotini; Cooked,0302-9805,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.34 
+04-Flavor,Sauce; Hoisin; Asian; Custom Culinary #6623; 113g; 4oz,0401-10477,Raw Material,Item Place (Bags),01-Sauces,0,Each, $1.41 
+01-Protein,Sausage; Chorizo; Ground 80/20; Raw; 142g; 5oz; Agostino #126591,0102-10758,Raw Material,Item Place (Bags),02-Land,0,Each, $1.28 
+03-Starch,BULK; 1/28lb; Rice; White; Long grain; Cooked; Nippon #3NCAR3BN; COA req,0302-10495,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.28 
+03-Starch,BULK; 2/14lb; Rice; Brown; Cooked; Nippon #3NNAS3BN; COA req,0302-10899,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.37 
+03-Starch,Rice; Basmati; Cooked; 300g; 10.6oz; Nates,0302-8335,Raw Material,Item Place (Bags),02-Cooked,0,Each, $1.35 
+02-Produce,BULK; 1/20; Green Beans; Cut; Organic; IQF; Sno Pac; COA req,0203-10688,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.41 
+04-Flavor,Sauce; Butter; Stir Foods #02633; 250g; 8.8oz,0401-9677,Raw Material,Item Place (Bags),01-Sauces,0,Each, $1.25 
+02-Produce,Cauliflower; Florets; 113g; 4oz,0202-11259,Raw Material,Item Place (Bags),02-Fresh,0.25,Each, $1.36 
+04-Flavor,Concentrate; Sundried Tomato; Custom Culinary #6617; 1113g; 4oz,0401-11258,Raw Material,Item Place (Bags),01-Sauces,0.25,Each, $1.38 
+06-Packaging,Box; MasterCase; FR Logo+Arrows; 8pk; Freezer Friendly; Vented; Landsberg #L2400211901,0607-2417901,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $1.39 
+02-Produce,Tomato; Grape; Whole; Red; 226g; 8oz,0202-10916,Raw Material,Item Place (Bags),02-Fresh,0,Each, $1.98 
+03-Starch,Rice; Basmati with Peas; Cooked; 300g; 10.6oz,0302-9676,Raw Material,Item Place (Bags),02-Cooked,0,Each, $1.46 
+06-Packaging,Box; MasterCase; Plain; Corrugate; 22.5x14.69x8.75; Landsberg #L-24-000087-01,0607-11690,Component,Outer case assemble and Pack,07-Corrugate,0,Each, $1.41 
+03-Starch,Pasta; Fettuccine; Cooked; MAP; Nates; 566g; 20oz,0302-11479,Raw Material,Item Place (Bags),02-Cooked,1.25,Each, $1.43 
+03-Starch,BULK; 4/5lb; Rice; White; Long Grain; Cooked; IQF; Nates,0302-11372,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.43 
+06-Packaging,Cover; Pallet Layer Cap; 43.5 x 37.7 x 3.9in,0607-11106,Component,DTC,07-Corrugate,0,Each, $1.63 
+04-Flavor,BULK; 2/1 Gal; Vinaigrette; Lemon; Marzetti; #87197,0403-10433,Raw Material,Deposit,03-Oil/Vinegar/Juice/Broth,1,Pound, $2.36 
+02-Produce,Spinach; Baby; 113g; 4oz,0202-8424,Raw Material,Item Place (Bags),02-Fresh,0.25,Each, $1.48 
+04-Flavor,BULK; 1/30lb; Sauce; Honey Mustard; Legacy #711914,0401-11380,Raw Material,Deposit,01-Sauces,1,Pound, $1.69 
+02-Produce,Tomato; Grape; Whole; Red; Bagged; 142g; 5oz,0202-11349,Raw Material,Item Place (Bags),02-Fresh,0.3125,Each, $1.50 
+03-Starch,Corn; Mexi; Steamcrisp; Canned; Green Giant; B&G #85010370A; 311g; 11oz,0304- 11107,Raw Material,Item Place (Bags),04-Canned,0,Each, $1.56 
+03-Starch,Orzo; Cooked; Nates; 283g; 10oz,0302-11266,Raw Material,Item Place (Bags),02-Cooked,0.625,Each, $1.46 
+03-Starch,BULK; 4/5lb; Grits; Yellow; with Parmesan; Cooked,0302-10598,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.48 
+02-Produce,BULK; 1/20lb; Peas; Organic; Blanched; Sno Pac #7056; COA req,0203-10851,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.35 
+02-Produce,BULK; 1/5GAL; Kimchi; Classic; Cleveland Kitchen #105GKM; COA req,0205-11571,Raw Material,Volume Scoop,05-Preserved,1,Pound, $1.72 
+03-Starch,BULK; 4/5lb; Potato; Mashed; Creamy; Yukon Gold; Natural; Resers #71117.94501,0302-11277,Raw Material,Deposit (with Depositor),02-Cooked,1,Pound, $1.66 
+03-Starch,Grain Blend; Brown and Wild Rice; Cooked; 227g; 8oz,0302-10800,Raw Material,Item Place (Bags),02-Cooked,0,Each, $1.53 
+04-Flavor,Sauce; Puttanesca; Pacifica #02725; 283g; 10oz,0401-9975,Raw Material,Item Place (Bags),01-Sauces,0.625,Each, $1.58 
+04-Flavor,BULK; 1/30lb; Dressing; Greek; Legacy #711943,0401-11558,Raw Material,Deposit,01-Sauces,1,Pound, $1.76 
+02-Produce,BULK; Bok Choy; Sliced 0.25in; Fresh,0202-10750,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $5.43 
+03-Starch,BULK; 1/30lb; Farro; Cooked; IQF; Nates,0302-11564,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.73 
+02-Produce,BULK; 1/25lb; Asparagus; Green; Cuts & Tips 1-3in; IQF; Johnson Food; COA req,0203-11348,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.76 
+02-Produce,Green Beans; Trimmed; Fresh; 170g; 6oz,0202-11453,Raw Material,Item Place (Bags),02-Fresh,0.375,Each, $3.05 
+04-Flavor,"Sauce; Beef Burgundy; Custom Culinary #7437, 226g; 8oz",0401-11293,Raw Material,Item Place (Bags),01-Sauces,0,Each, $1.66 
+03-Starch,BULK; 6/4lb; Bean; Pinto; Southwest; Cooked; Better Bean #BB1035,0302-11188,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.83 
+03-Starch,BULK; 2/14lb; Rice; Jasmine; Cooked; Nippon #3NCKU3BN; COA req,0302-10422,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.87 
+03-Starch,BULK; 6/3lb; Pasta; Penne; Whole Wheat; IQF Map-Cooked; Nates,0302-11689,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.82 
+02-Produce,Mix; Fajita (Red and Green Bell Pepper and Onion); Sliced; 226g; 8oz,0202-10713,Raw Material,Item Place (Bags),02-Fresh,0.5,Each, $2.13 
+04-Flavor,BULK; 4/6lb; Sauce; Red Enchilada; Custom Culinary #6577,0401-10607,Raw Material,Deposit,01-Sauces,1,Pound, $1.89 
+02-Produce,BULK; 10/2lb; Veggie Blend; Poblano Fajita; Fire Roasted; Haliburton #11128,0203-10717,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.50 
+03-Starch,Bulk; Pasta; Bowtie; Dry; Mueller; 142g; 5oz,0301-10953,Raw Material,Item Place (Bags),01-Dry,0,Each, $1.79 
+03-Starch,Rice; White; Long Grain; Cooked; IQF; Nippon; 453g; 16oz; COA req,0302-11436,Raw Material,Item Place (Bags),02-Cooked,0,Each, $1.79 
+04-Flavor,Sauce; Stroganoff; Custom Culinary #6646; 226g; 8oz,0401-11446,Raw Material,Item Place (Bags),01-Sauces,0,Each, $1.79 
+04-Flavor,Sauce; Enchilada; Red; Los Cabos #23780; 226g; 8oz,0401-2414501,Raw Material,Item Place (Bags),01-Sauces,0,Each, $1.81 
+02-Produce,BULK; 1/20lb; Corn; Fire-Grilled; Cooked; Sevillo #00420,0203-11179,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.77 
+04-Flavor,BULK; 1/30lb; Raisin; Black; Seedless; with Oil; Newport #3261,0405-10909,Raw Material,Volume Scoop,05-Nuts/Seeds/Dried Fruit,1,Pound, $1.94 
+04-Flavor,BULK; 4/1 Gal; Sauce; Honey BBQ; Marzetti #84278,0401-10600,Raw Material,Deposit,01-Sauces,1,Pound, $2.94 
+03-Starch,Rice; White; Cilantro Lime; Seenergy #525-1046-0000; 679g; 24oz; COA req,0302-11485,Raw Material,Item Place (Bags),02-Cooked,1.5,Each, $1.92 
+03-Starch,Potatoes; Mashed; Tiffany Gate #MST-SS-US; 340g; 12oz,0302-10725,Raw Material,Item Place (Bags),02-Cooked,0.75,Each, $1.87 
+03-Starch,BULK; 1/28lb; Rice; Basmati; Nippon; COA req,0302-11269,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.89 
+02-Produce,BULK; 10/33oz; Olives; Green; Sliced .25in; Roland #71818,0205-10900,Raw Material,Volume Scoop,05-Preserved,1,Pound, $3.52 
+02-Produce,BULK; 12/lb; Peas; Sugar Snap; Grade A; Hanover,0203-2422501,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.92 
+02-Produce,BULK; 1/15lb; Cauliflower; Florets; Organic; IQF; SnoPac; COA req,0203-11185,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.88 
+02-Produce,BULK; 1/20lb; Edamame; Organic; IQF; Sno Pac; COA req,0203-11049,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.97 
+02-Produce,BULK; 10/2lb; Pepper; Red; Fire Roasted; Diced .5in; Haliburton #11139,0203-10842,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.19 
+02-Produce,Water Chestnuts; Sliced; Reese; 226g; 8oz,0205-8051,Raw Material,Item Place (Bags),05-Preserved,0,Each, $1.53 
+02-Produce,BULK; 1/40lb; Kale; Green; Coarse Cut .25-.5in; IQF; Van Drunen #E80; COA req,0203-11048,Raw Material,Volume Scoop,03-Cooked,1,Pound, $1.65 
+03-Starch,BULK;10/3lb; Noodle; Yakisoba/Chow Mein; Cooked; Pasteurized; JSL#01-01-5060-01,0302-11151,Raw Material,Spaghetti / Noodle,02-Cooked,1,Pound, $1.82 
+02-Produce,BULK; 1/30lb; Cauliflower; Riced; Cooked; IQF; Nates,0203-11570,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.02 
+01-Protein,Chicken; Breast; Tender; BL/SL; All Natural; Raw; Agostino #115077; 226g; 8oz,0101-10459,Raw Material,Item Place (Bags),01-Bird,0.5,Each, $2.35 
+03-Starch,Rice; Yellow with Peas; Cooked; 300g; 10.6oz,0302-10473,Raw Material,Item Place (Bags),02-Cooked,0.6625,Each, $1.92 
+03-Starch,BULK; 1/30lb; Rice; Yellow with Peas; Cooked; Nates,0302-11189,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.78 
+04-Flavor,BULK; 6/4.8lb; Sauce; General Tso; Nippon Shokken #00550,0401-11483,Raw Material,Deposit,01-Sauces,1,Pound, $2.47 
+04-Flavor,Sauce; Mushroom Thyme; Custom Culinary #7462; 283g; 10oz,0401-11496,Raw Material,Item Place (Bags),01-Sauces,0.625,Each, $1.99 
+03-Starch,BULK; 6/4lb; Bean; Black; Cuban; Better Bean #BB1007-6,0302-11371,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.02 
+02-Produce,BULK; 2/20lb; Pepper; Bell; Red; Fire Roasted; IQF; Short Strips .375in; Haliburton #35088,0203-11529,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.07 
+03-Starch,BULK; 8/3lb; Noodle; Udon; Cooked; Pasteurized; JSL,0302-10687,Raw Material,Spaghetti / Noodle,02-Cooked,1,Pound, $1.82 
+04-Flavor,Sauce; Mushroom Cream with Thyme; Custom Food Products #49400; 283g; 10oz,0401-10380,Raw Material,Item Place (Bags),01-Sauces,0.625,Each, $1.95 
+03-Starch,BULK; 1/30lb; Broccoli; Riced; IQF; Nates,0203-11554,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.10 
+03-Starch,BULK; 1/30lb; Grain Blend; Wheatberry+Barley+Brown Rice+Kale; IQF; Nippon0302-11659,0302-11659,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.16 
+03-Starch,Rice; Butter & Garlic; Bens Original; Cooked; 249g; 8.8oz,0302-10873,Raw Material,Item Place (Bags),02-Cooked,0.55,Each, $2.08 
+02-Produce,BULK; 1/30lb; Onion; Green Scallion; .25in Diced; IQF; Van Drunen #104,0203-2407502,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.05 
+03-Starch,BULK; 1/28lb; Rice; Spanish; Cooked; Nippon; COA req,0302-10494,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.18 
+01-Protein,Chicken; Breast; BL/SL; Strips 2-3.5in; ABF; Raw; Thomas Foods #MS114; 311g; 11oz,0101-11505,Raw Material,Item Place (Bags),01-Bird,0.6875,Each, $2.04 
+02-Produce,BULK; 1/30lb; Pineapple; Tidbits; Tropical Gold; IQF; Dole #28885,0203-11138,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.86 
+03-Starch,BULK; 1/28lb; Rice; Basmati with Turmeric; Red Sodium; IQF; Nippon #3NCSQ3BN; Lt 28MC; COA req,0302-11276,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.22 
+04-Flavor,BULK; 6/5.1lb; Sauce; BBQ Katsu; Nippon Shokken #00269,0401-11470,Raw Material,Deposit,01-Sauces,1,Pound, $2.49 
+02-Produce,BULK; 10/2lb; Blend; Southwest; Corn-Peppers-Onions-Beans; Fire Roasted; Haliburton #11104,0203-10435,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.23 
+02-Produce,BULK; 1/20lb; Veg Blend; SW Corn+Black Bean; Fire Roasted; IQF; Sevillo #00574,0203-2405902,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.27 
+01-Protein,Chicken; Thighs; BL/SL; Diced 1x1in; Raw; Standard #84000; 283g; 10oz,0101-11411,Raw Material,Item Place (Bags),01-Bird,0.625,Each, $1.69 
+04-Flavor,Sauce; Curry; Thai Style Yellow; Custom Culinary #6661; 226g; 8oz,0401-11484,Raw Material,Item Place (Bags),01-Sauces,0.5,Each, $2.15 
+03-Starch,Pasta; Egg Noodle; Twisted; Cooked; IQF; Nates; 566g; 20oz,0302-11440,Raw Material,Item Place (Bags),02-Cooked,1.25,Each, $2.19 
+03-Starch,BULK; 1/15lb; Pasta; Egg Noodle; Twisted; Cooked,0302-10563,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.26 
+04-Flavor,Sauce; Tikka Masala; Custom Culinary #6668; 226g; 8oz,0401-11260,Raw Material,Item Place (Bags),01-Sauces,0.5,Each, $2.20 
+03-Starch,BULK; 6/5lb; Orzo; Cooked,0302-10432,Raw Material,Volume Scoop,02-Cooked,1,Pound, $1.49 
+02-Produce,Veggie Blend; Asian (Carrot-Chopped SnapPea-Purple Cabbage-Bok Choy) 340g; 12oz,0202-11255,Raw Material,Item Place (Bags),02-Fresh,0.75,Each, $2.44 
+02-Produce,BULK; 6/5.51lb; Artichoke; Preserved; Roland #40496,0205-11572,Raw Material,Volume Scoop,05-Preserved,1,Pound, $3.37 
+02-Produce,BULK 10/2lb; Pepper; Red; Roasted; Sliced; .25in; Cooked; Haliburton #11137,0203-10684,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.34 
+03-Starch,BULK; 1/28lb; Rice; Fried; Hibachi; Cooked; Nippon,0302-10553,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.32 
+03-Starch,BULK; 1/25lb; Grain Blend; Quinoa and Kale; Nippon; coa req,0302-10887,Raw Material,Volume Scoop,02-Cooked,1,Pound, $2.34 
+04-Flavor,BULK; 1/44lb; Sauce; Teriyaki; Glaze & Marinade; Nippon Shokken #00488,0401-11565,Raw Material,Deposit,01-Sauces,1,Pound, $2.65 
+03-Starch,Rice; Turmeric Basmati; IQF; Nippon; 453g; 16oz,0302-2406401,Raw Material,Item Place (Bags),02-Cooked,1,Each, $2.30 
+04-Flavor,BULK; 6/5.4lb; Sauce; Teriyaki; Glaze & Marinade; Nippon Shokken #00013,0401-11502,Raw Material,Deposit,01-Sauces,1,Pound, $2.99 
+02-Produce,BULK; 4/5lb; Brussels Sprouts; Halved; Trimmed Ends,0202-9403,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $3.46 
+01-Protein,Chicken; Thighs; BL/SL; Whole; Raw; Agostino #115087; 283g; 10oz,0101-11251,Raw Material,Item Place (Bags),01-Bird,0,Each, $2.96 
+03-Starch,Pasta; Penne; Cooked; IQF; Nates; 680g; 24oz,0302-11438,Raw Material,Item Place (Bags),02-Cooked,2,Each, $2.30 
+01-Protein,Sausage; Pork; Italian; Crumbles; Pocino #21202; 226g; 8oz,0102-2409302,Raw Material,Item Place (Bags),02-Land,0.5,Each, $2.35 
+03-Starch,Pasta; Rigatoni; Cooked; IQF; Nates; 680g; 24oz,0302-11439,Raw Material,Item Place (Bags),02-Cooked,2,Each, $2.35 
+02-Produce,BULK; 1/40lb; Zucchini; Diced .375in; IQF; Jain #1000321,0203-11556,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.41 
+02-Produce,BULK; Carrots; Raw; Stick Cut 2x.25x.25,0202-11604,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $2.50 
+04-Flavor,BULK; 5/10lb; Sauce; Butter Curry; Pacifica #03149,0401-11103,Raw Material,Deposit,01-Sauces,1,Pound, $2.25 
+03-Starch,Pasta; Orzo; Cooked; MAP; Nates; 566g; 20oz,0302-11480,Raw Material,Item Place (Bags),02-Cooked,1.25,Each, $2.50 
+04-Flavor,BULK; 8/5lb; Sauce; Alfredo; Regular; Custom Foods #49404,0401-10824,Raw Material,Deposit,01-Sauces,1,Pound, $2.50 
+04-Flavor,BULK; 4/6lb; Sauce; Meatball Glaze; Custom Culinary #6640,0401-10843,Raw Material,Deposit,01-Sauces,1,Pound, $2.50 
+03-Starch,Rice; Spanish; Cooked; IQF; Nippon; 453g; 16 oz; COA req,0302-11437,Raw Material,Item Place (Bags),02-Cooked,0,Each, $2.55 
+04-Flavor,BULK; 6/4lb; Sauce; Cream of Chicken; UPDATED; Custom Culinary #6818,0401-11527,Raw Material,Deposit,01-Sauces,1,Pound, $2.40 
+04-Flavor,BULK; 2/22lb; Sauce; Romesco; Armanino #2043I,0401-10907,Raw Material,Deposit,01-Sauces,1,Pound, $2.55 
+04-Flavor,BULK; 4/6lb; Sauce; Guajillo Chile; Custom Culinary #6594,0401-10680,Raw Material,Deposit,01-Sauces,1,Pound, $2.57 
+01-Protein,Pepperoni; Diced .25in; Pocino #50047; 226g; 8oz,0102-2409303,Raw Material,Item Place (Bags),02-Land,0.5,Each, $2.60 
+04-Flavor,BULK; 4/6lb; Sauce; Teriyaki with Sake; Custom Culinary #6591,0401-9607,Raw Material,Deposit,01-Sauces,1,Pound, $2.75 
+04-Flavor,BULK; 6/4lb; Sauce; Cream of Chicken; Custom Culinary #6818,0401-11176,Raw Material,Deposit,01-Sauces,1,Pound, $2.90 
+04-Flavor,BULK; 6/4.8lb; Sauce; Miso Ginger; Nippon Shokken #00216,0401-11471,Raw Material,Deposit,01-Sauces,1,Pound, $3.15 
+02-Produce,BULK; 1/40lb; Onion; Yellow; Sweet; Diced .375in; Red. Moisture; IQF; Jain #1000207,0203-2406801,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.78 
+03-Starch,Rice; Yellow with Peas; Cooked; IQF; 453; 16oz; Nates,0302-11464,Raw Material,Item Place (Bags),02-Cooked,1,Each, $2.57 
+04-Flavor,BULK; 6/4lb; Sauce; Alfredo; Custom Culinary #7403 v.2,0401-11268,Raw Material,Deposit,01-Sauces,1,Pound, $2.55 
+03-Starch,Pasta; Rigatoni; IQF Map-Cooked; Nates; 679g; 24oz,0302-2408120,Raw Material,Item Place (Bags),02-Cooked,1.5,Each, $2.70 
+04-Flavor,BULK; 6/5lb; Sauce; Lemon Piccata; Legacy #711952,0401-11640,Raw Material,Deposit,01-Sauces,1,Pound, $2.88 
+02-Produce,BULK; Green Beans; Trimmed; Washed,0202-10549,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $3.99 
+04-Flavor,BULK; 4/6lb; Sauce; Stroganoff; UPDATED; Custom Culinary #6646,0401-11553,Raw Material,Deposit,01-Sauces,1,Pound, $2.67 
+03-Starch,Bean; Pinto; Southwest; Better Bean #BB1016; 425g; 15oz,0302-11442,Raw Material,Item Place (Bags),02-Cooked,0.9375,Each, $2.76 
+02-Produce,BULK; 1/40lb; Onion; Yellow; Sweet; Strips .375in; Fire Roasted; Red Moisture; JAIN #1000213,0203-11488,Raw Material,Volume Scoop,03-Cooked,1,Pound, $2.77 
+01-Protein,Pork; Chops; Boneless; Chipotle BBQ Seasoned; Raw; 283g; 10oz; Agostino #126585,0102-10755,Raw Material,Item Place (Bags),02-Land,0,Each, $2.81 
+01-Protein,"Pork; Chops; Boneless; Plain; Raw; Agostino #113208; 283g; 10oz (2, 5oz pieces)",0102-10836,Raw Material,Item Place (Bags),02-Land,0.625,Each, $3.11 
+04-Flavor,BULK; 8/5lbs; Sauce; Rose Tomato; Fiore #200430-02; COA req,0401-10485,Raw Material,Deposit,01-Sauces,1,Pound, $2.52 
+02-Produce,BULK; Veggie Blend; Yellow Squash and Zucchini; Diced .5in; Raw,0202-10541,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $3.31 
+01-Protein,Beef; Ground; 85/15 Lean; ABF; Raw; Pouched; Agostinos #119933; 198g; 7oz,0102-10475,Raw Material,Item Place (Bags),02-Land,0,Each, $3.35 
+04-Flavor,BULK; 8/5lb; Sauce; Mac and Cheese; Fiore #220919-02 v.5,0401-11494,Raw Material,Deposit,01-Sauces,1,Pound, $2.85 
+05-Dairy,BULK; 4/5lb; Cheese; Monterey Jack; Shredded,0503-10678,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.37 
+02-Produce,BULK; Brussels Sprouts; Shaved,0202-9869,Raw Material,Volume Scoop,02-Fresh,1,Pound, $4.02 
+04-Flavor,BULK; 8/5lb; Sauce; Mac and Cheese; Custom Foods #49405,0401-10825,Raw Material,Deposit,01-Sauces,1,Pound, $2.91 
+02-Produce,BULK; 6/6.6lb; Peppers; Red; Peruvian; Pearl; Divina #00052,0203-11608,Raw Material,Volume Scoop,03-Cooked,1,Pound, $7.86 
+04-Flavor,BULK; 4/6lb; Sauce; Beef Burgundy; Custom Culinary #7437,0401-10908,Raw Material,Deposit,01-Sauces,1,Pound, $2.87 
+04-Flavor,BULK; 4/6lb; Sauce; Tomatillo Serrano; Custom Culinary #6472,0401-11172,Raw Material,Deposit,01-Sauces,1,Pound, $3.00 
+05-Dairy,BULK; 4/5lb; Cheese; Swiss; Shredded; Emmi Roth#2480; COA Req,0503-2423401,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.29 
+05-Dairy,BULK; 4/5lb; Cheese; Parmesan; Shredded; Emmi Roth #2488,0503-2423201,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.29 
+05-Dairy,BULK; 6/5lb; Cheese Blend; Mexican; Shredded; Sargento #10001268,0503-10601,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.35 
+02-Produce,BULK; 1/40lb; Veg blend; Asian Fusion;(Grn Bn-Yel On-Red/Yel Bell-Carrots); IQF; Jain #2000102,0203-11469,Raw Material,Volume Scoop,03-Cooked,1,Pound, $3.09 
+01-Protein,Shrimp; White; P/D; Tail off; 51/60 ct; Farmed; Raw; Ocean Beauty; 142g; 5 oz,0103-10798,Raw Material,Item Place (Bags),03-Sea,0,Each, $4.49 
+01-Protein,"Chicken; Breast; BL/SL; Whole; 10% Brine; Raw; Agostinos #115076; (2, 5oz pc); 283g; 10oz",0101-10766,Raw Material,Item Place (Bags),01-Bird,0.625,Each, $2.91 
+04-Flavor,BULK; 6/4lb; Sauce; Meatloaf; Roasted Tomato Glaze; Custom Culinary #5720,0401-10484,Raw Material,Deposit,01-Sauces,1,Pound, $2.96 
+04-Flavor,BULK; 1/25lb; Almonds; Sliced; Thick; Raw; Newport #5103,0405-11573,Raw Material,Volume Scoop,05-Nuts/Seeds/Dried Fruit,1,Pound, $3.22 
+04-Flavor,BULK; 3/4lb; Salsa; Green; Fire Roasted; Del Real #503-5,0401-11228,Raw Material,Deposit,01-Sauces,1,Pound, $3.29 
+01-Protein,BULK; 2/5lb; Sausage; Breakfast with Red Pepper & Sage; Cooked; Burke #43388,0102-11028,Raw Material,Volume Scoop,02-Land,1,Pound, $2.47 
+05-Dairy,BULK; 6/5lb; Cheese; Cheddar; Sharp; Medium Shredded; Sargento #10000925,0503-10706,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.37 
+05-Dairy,BULK; 4/5lb; Cheese; Feta; Crumbled; Sartori #10040,0503-11566,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.96 
+02-Produce,BULK; Carrots; Raw; Coin Cut .25in,0202-10390,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $2.02 
+02-Produce,BULK; 4/5lb; Veggie Blend; Asian (Carrot-Chopped SnapPea-Purple Cabbage-Bok Choy),0202-10557,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $2.66 
+04-Flavor,BULK; 4/6lb; Sauce; Red Pepper Rosa; Custom Culinary #6639,0401-10844,Raw Material,Deposit,01-Sauces,1,Pound, $3.01 
+02-Produce,BULK; Veggie Blend; Green Bell Pepper and Yellow Onion; Fresh; Diced .5in,0202-10542,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $3.35 
+01-Protein,BULK; 2/5lb; Sausage; Chicken; Breakfast; Seasoned; Crumbles; Cooked; Brakebush #5600,0101-11693,Raw Material,Volume Scoop,01-Bird,1,Pound, $3.00 
+04-Flavor,BULK; 8/5lb; Sauce; Enchilada; Green; Tomatillo; Fiore #210330-07,0401-10491,Raw Material,Deposit,01-Sauces,1,Pound, $3.50 
+01-Protein,BULK; 1/25lb; Eggs; Scrambled; Cage Free; NGMO; Fully Cooked; IQF; Grand Prairie #301719,0105-11569,Raw Material,Volume Scoop,05-Egg,1,Pound, $3.42 
+04-Flavor,BULK; 4/6lb; Sauce; Udon Noodle; Custom Culinary #6635,0401-10681,Raw Material,Deposit,01-Sauces,1,Pound, $3.09 
+04-Flavor,BULK; 4/6lb; Sauce; Paella; Custom Culinary #6622,0401-10924,Raw Material,Deposit,01-Sauces,1,Pound, $3.30 
+02-Produce,BULK; Tomato; Grape; Fresh; Washed,0202-10560,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $3.88 
+02-Produce,BULK; 1/30lb; Broccoli; IQF; Jain Farms #1000617,0203-11555,Raw Material,Volume Scoop,03-Cooked,1,Pound, $3.29 
+05-Dairy,BULK; 1/20lb; Cheese; Ricotta; Whole Milk; BelGioioso #00182,0502-10847,Raw Material,Deposit (with Depositor),02-Whole Cheese,1,Pound, $3.41 
+02-Produce,BULK; 1/40lb; Veggie Blend (Brussels+Bell Pepper+Zucchini+Mushroom); IQF; Jain #2000106,0203-11661,Raw Material,Volume Scoop,03-Cooked,1,Pound, $3.49 
+04-Flavor,BULK; 1/25lb; Spice Blend; Savory Paprika; TrueSpice Foods,0404-10658,Raw Material,Sprinkle,04-Spices,1,Pound, $3.47 
+02-Produce,"BULK; 5/2lb; Collard Greens, Chopped; Fresh; 1.5 x 1.5in",0202-11226,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $2.28 
+05-Dairy,BULK; 4/5lb; Cheese; Monterey Jack; Fancy Shredded,0503-11476,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.37 
+04-Flavor,BULK; 4/6lb; Sauce; Curry; Thai Yellow; Custom Culinary #6661,0401-11171,Raw Material,Deposit,01-Sauces,1,Pound, $3.30 
+05-Dairy,BULK; 4/5lb; Cheese; Blend (Mozz; Parm; Asiago; Montamore; Fontina); Shredded; Sartori #11111,0503-10369,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $3.65 
+04-Flavor,BULK; 4/6lb; Sauce; Teriyaki with Sake; Custom Culinary #6591,0401-11500,Raw Material,Deposit,01-Sauces,1,Pound, $3.30 
+04-Flavor,BULK; 6/5lb; Glaze; Sambal Soy; Fiore RD#210419-02 FRRE v.2,0401-10910,Raw Material,Deposit,01-Sauces,1,Pound, $3.28 
+04-Flavor,BULK; 4/6lb; Sauce; Korean Sweet Heat; Custom Culinary #6648,0401-10960,Raw Material,Deposit,01-Sauces,1,Pound, $3.35 
+01-Protein,Shrimp; White; P/D; T/O; 31-40ct; Farmed; Raw; Skin-Pack Tray 10K OTR Film; OB#3202126071; 226g; 8oz,0103-11312,Raw Material,Item Place (Bags),03-Sea,0,Each, $3.28 
+04-Flavor,BULK; 4/6lb; Sauce; Szechuan-Style with Cumin; Custom Culinary #6471,0401-11173,Raw Material,Deposit,01-Sauces,1,Pound, $3.35 
+04-Flavor,Sauce; Rose Tomato; Fiore #FR10485; 453g; 16oz,0401-11445,Raw Material,Item Place (Bags),01-Sauces,1,Each, $3.35 
+04-Flavor,BULK; 4/6lb; Sauce; Tahini; Garlic; Custom Culinary #6674,0401-11678,Raw Material,Deposit,01-Sauces,1,Pound, $3.39 
+01-Protein,BULK; 2/5lb; Chicken; Breast; BL/SL; Diced .5in; NAE; Cooked; Brakebush #5250,0101-11407,Raw Material,Volume Scoop,01-Bird,1,Pound, $3.46 
+04-Flavor,BULK; 1/5lb; Spice Blend; Cajun; Everson #900-123O,0404-10949,Raw Material,Sprinkle,04-Spices,1,Pound, $4.70 
+01-Protein,Chicken; Breast; BL/SL; Strips; Grill Marks; Cooked; 170g; 6oz,0101-11310,Raw Material,Item Place (Bags),01-Bird,0.375,Each, $3.16 
+01-Protein,BULK; 6/5lb; Chicken; Thigh; BL/SL; Diced 1.5in x 1.5in; Unseasoned; Raw; Agostino #115051,0101-11175,Raw Material,Weigh - Protein,01-Bird,1,Pound, $3.65 
+05-Dairy,BULK; 6/2lb; Cheese; Parmesan; Shaved; Sargento #10001251,0503-10420,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $4.02 
+01-Protein,BULK; 2/10lb; Pork; Pulled; Cooked; EJ Farms #0069,0102-11408,Raw Material,Weigh - Protein,02-Land,1,Pound, $3.35 
+04-Flavor,BULK; 6/5lb; Sauce; Chipotle Mac and Cheese; Fiore RD#211206-01 FRRE V.2,0401-11178,Raw Material,Deposit,01-Sauces,1,Pound, $3.50 
+04-Flavor,BULK; 4/9.5lb; Sauce; Pesto; Dried Tomato; Armanino #1769I,0401-10996,Raw Material,Deposit,01-Sauces,1,Pound, $3.74 
+01-Protein,BULK; 2/5lb; Chicken; Thigh; BL/SL; Diced 1in; Cooked; Brakebush #5220,0101-11497,Raw Material,Weigh - Protein,01-Bird,1,Pound, $3.82 
+03-Starch,BULK; 1/25lb; Rice; Wild; Cooked; IQF; Nippon; COA Req,0302-2422801,Raw Material,Volume Scoop,02-Cooked,1,Pound, $3.83 
+04-Flavor,BULK; 4/6lb; Sauce; Indian-Style Butter; Custom Culinary #6660,0401-11142,Raw Material,Deposit,01-Sauces,1,Pound, $3.66 
+04-Flavor,BULK; 2/8lb; Sauce; Curry; Red; Cafe Spice #71000739,0401-2409901,Raw Material,Deposit,01-Sauces,1,Pound, $4.08 
+02-Produce,Onion; Pearl; Peeled/Cleaned; Fresh; 113; 4oz,0202-11256,Raw Material,Item Place (Bags),02-Fresh,0,Each, $1.80 
+01-Protein,BULK; 4/5lb; Chicken; Breast; BL/SL; Shredded; Cooked; NSP #701408,0101-10682,Raw Material,Weigh - Protein,01-Bird,1,Pound, $4.12 
+02-Produce,BULK; 4/5lb; Veggie Blend; (Red Onion .125in-Green Pepper .375in--Jalapeno .375in); Sliced,0202-11227,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $2.68 
+04-Flavor,BULK; 2/4lb; Sauce; Coconut Cashew Korma; Brooklyn Delhi,0401-10901,Raw Material,Deposit,01-Sauces,1,Pound, $3.60 
+01-Protein,Meatball; Beef & Pork; Umami Glazed; Cooked; (0.5oz pc); Pocino #20508; 453g; 16oz,0102-11249,Raw Material,Item Place (Bags),02-Land,1,Each, $3.67 
+05-Dairy,BULK; 4/5lb; Cheese; American; Yellow; Shredded; Land o Lakes #42049,0503-11682,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $4.21 
+01-Protein,Chicken; Breast; BL/SL; Sliced; NAE; Raw; Meyer; 311g; 11oz,0101-8720,Raw Material,Item Place (Bags),01-Bird,0,Each, $4.08 
+01-Protein,BULK; 1/20lb; Meatballs; Beef; .5oz each; Cooked; Pocino #20312ABF,0102-10749,Raw Material,Item Count,02-Land,1,Pound, $4.03 
+05-Dairy,BULK; 4/5lb; Cheese; Feta; Crumbled; Sargento #10000958,0503-10434,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $4.29 
+04-Flavor,BULK; 4/9.5lb; Sauce; Chimichurri; Armanino #1956I,0401-2408204,Raw Material,Deposit,02-Condiments,1,Pound, $3.82 
+01-Protein,BULK; 1/6.75lb; Enchiladas; Chicken; Corn tortilla; Cooked; Me Gusta (3oz pieces),0101-10609,Raw Material,Item Count,01-Bird,1,Pound, $3.97 
+02-Produce,BULK 10/2lb; Mushroom; White; Roasted; Sliced .375in; Cooked; Haliburton #W50455.7,0203-10685,Raw Material,Volume Scoop,03-Cooked,1,Pound, $4.08 
+03-Starch,BULK; 1/6.75lb; Enchiladas; Cheese; 5 to 5.25in; Me Gusta (3oz pieces),0302-10436,Raw Material,Item Count,02-Cooked,1,Pound, $4.18 
+01-Protein,BULK; 10/2.2lb; Tofu; Cubed; Pan-Fried; ICrest,0104-11677,Raw Material,Weigh - Protein,04-Vegetarian,1,Pound, $4.22 
+02-Produce,BULK; 1/5lb; Tomatoes; Sun-Dried; Diced; Sevillo #053,0203-11684,Raw Material,Volume Scoop,03-Cooked,1,Pound, $4.01 
+02-Produce,BULK; 4/5lb; Tomatoes; Sun-Dried with S02; Julienned; Sevillo #524,0203-2411501,Raw Material,Volume Scoop,03-Cooked,1,Pound, $4.01 
+04-Flavor,BULK; 1/25lb; Cashew; Pieces; Oil Roasted; Salted; Newport #5119,0405-11350,Raw Material,Volume Scoop,05-Nuts/Seeds/Dried Fruit,1,Pound, $4.28 
+01-Protein,"Salmon; Fillet; Grill Marks; Cooked; (2,3oz pieces); Trident Seafood #416748; 170g; 6oz",0103-11402,Raw Material,Item Place (Bags),03-Sea,0,Each, $4.42 
+01-Protein,BULK; 6/5lb; Chicken; Breast; BL/SL; Sliced 2 x .5 x .5in; Raw; Standard #81721-ABF,0101-10531,Raw Material,Weigh - Protein,01-Bird,1,Pound, $3.63 
+04-Flavor,BULK; 4/4lb; Glace; Demi; Custom Culinary #9662,0401-11660,Raw Material,Deposit,01-Sauces,1,Pound, $3.95 
+01-Protein,BULK; 1/18.5lb; Beef; Meatloaf; Formed; Raw; 5 oz pieces; Crown #FG80049,0102-10690,Raw Material,Item Count,02-Land,1,Pound, $4.30 
+01-Protein,BULK; 1/10lb; Sausage; Pork; Italian; Cooked; Pocino #21200,0102-24035000,Raw Material,Weigh - Protein,02-Land,1,Pound, $4.35 
+01-Protein,BULK; 6/5lb; Chicken; Breast; BL/SL; Whole; 10% Brine; Raw; (4oz pc); Agostinos #115065,0101-10817,Raw Material,Item Count,01-Bird,1,Pound, $4.60 
+01-Protein,BULK; 2/5.6lb; Chicken; Breast; BL/SL; Whole; Smoke Flavor; Grilled; Cooked; (3oz pc) Koch #88849,0101-11449,Raw Material,Item Count,01-Bird,1,Pound, $4.88 
+04-Flavor,BULK; 4/10lb; Salsa; Chipotle; Pacifica #03015,0401-10623,Raw Material,Deposit,01-Sauces,1,Pound, $2.25 
+01-Protein,BULK; 2/5lb; Chicken; Breast; BL/SL; Whole Cutlet; Breaded; Seasoned; Cooked; (4oz pc) Koch #86861,0101-11403,Raw Material,Item Count,01-Bird,1,Pound, $5.16 
+03-Starch,BULK; 1/25lb; Pasta; Ravioli; 3 Cheese; Cooked; Fiore #PC1001FR; COA req,0302-10753,Raw Material,Item Count,02-Cooked,1,Pound, $4.54 
+01-Protein,BULK; 1/20lb; Sausage; Chicken with Herbs; Romano; NAE; ABF; Cooked; Standard Meat #112723-1,0101-11692,Raw Material,Item Count,01-Bird,1,Pound, $4.20 
+01-Protein,BULK; 6/5lb; Chicken Breast; BL/SL; Strips .375in; Grilled; Cooked; NSP #700030,0101-11606,Raw Material,Weigh - Protein,01-Bird,1,Pound, $4.57 
+04-Flavor,BULK; 4/10lb; Sauce; Beef Broccoli; Stir Foods; #00185,0401-11169,Raw Material,Deposit,01-Sauces,1,Pound, $3.47 
+04-Flavor,BULK; 6/4lb; Sauce; Beef Bolognese; Custom Culinary #6638,0401-10874,Raw Material,Deposit,01-Sauces,1,Pound, $3.78 
+04-Flavor,Sauce; Alfredo; Custom Culinary #7403; 453g; 16oz,0401-11444,Raw Material,Item Place (Bags),01-Sauces,1,Each, $4.44 
+01-Protein,Beef; Inside Round Cut; Strips 2 x .5 x .5in; ABF; Raw; Agostinos #119945; 198g; 7oz,0102-10562,Raw Material,Item Place (Bags),02-Land,0,Each, $4.55 
+01-Protein,BULK; 6/5lb; Pork; Tenderloin; Medallion Slice (2oz each slice); Agostinos #113177,0102-9827,Raw Material,Weigh - Protein,02-Land,1,Pound, $4.35 
+05-Dairy,BULK; 6/2lb; Mozzarella; Log; BelGioioso #00909; COA req,0502-10846,Raw Material,Item Place,02-Whole Cheese,1,Pound, $5.49 
+01-Protein,BULK; 4/5lb; Pepperoni; Uncured; Sliced; Pocino #50851,0102-11472,Raw Material,Weigh - Protein,02-Land,1,Pound, $4.78 
+01-Protein,BULK; 1/30lb; Chicken; Breast; BL/SL; Strips; Grilled; NAE; Dairy-free; Cooked; NSP #70208,0101-10906,Raw Material,Weigh - Protein,01-Bird,1,Pound, $4.46 
+04-Flavor,BULK; 1/5lb; Spice Blend; Lemon Pepper; Everson #900-116M,0404-10950,Raw Material,Sprinkle,04-Spices,1,Pound, $5.91 
+05-Dairy,BULK; 2/25lb; Cheese; Parmesan; Grated; Sargento #10000185,0503-11563,Raw Material,Volume Scoop,03-Cut cheese,1,Pound, $4.99 
+04-Flavor,BULK; Spice Blend; California Garlic Medley; Everson #300-249,0404-10948,Raw Material,Sprinkle,04-Spices,1,Pound, $5.83 
+01-Protein,BULK; 6/5lb; Chicken; Thigh; BL/SL; Diced 1.5in x 1.5in; Unseasoned; ABF; Raw; Agostino #115057,0101-10445,Raw Material,Weigh - Protein,01-Bird,1,Pound, $4.50 
+05-Dairy,BULK; 1/5lb; Cheese; Queso Fresco; Jamito; Wheel; Cheesemakers #01483; COA req,0502-11603,Raw Material,Volume Scoop,02-Whole Cheese,1,Pound, $5.06 
+01-Protein,BULK; 2/7.5lb; Pork; Pulled; Sous Vide; Fully Cooked; Dans Prize #86063,0102-11027,Raw Material,Weigh - Protein,02-Land,1,Pound, $3.75 
+04-Flavor,BULK; 1/25lbs; Seasoning Blend; Italian; True Spice,0404-11519,Raw Material,Sprinkle,04-Spices,1,Pound, $5.16 
+01-Protein,BULK; 4/5lb; Shrimp; Raw; 26/30 ct; P/D; Tail Off; Red Chamber #0216PD12645,0103-10954,Raw Material,Weigh - Protein,03-Sea,1,Pound, $7.23 
+01-Protein,BULK; 2/12lb; Chicken; Breast & Thigh; BL/SL; NAE; Southwest Style; Diced; Cooked; DeliStar #30130,0101-2406701,Raw Material,Weigh - Protein,01-Bird,1,Pound, $4.88 
+01-Protein,BULK; 4/5lb; Pepperoni; Diced .25in; Pocino #50856,0102-11518,Raw Material,Weigh - Protein,02-Land,1,Pound, $5.22 
+04-Flavor,BULK; 1/50lb; Spice Blend; Garlic and Herb; TrueSpice #4,0404-10889,Raw Material,Sprinkle,04-Spices,1,Pound, $5.44 
+02-Produce,BULK; 4/4.4lb Olives; Kalamata,0205-10739,Raw Material,Volume Scoop,05-Preserved,1,Pound, $11.97 
+04-Flavor,BULK; 2/3.75lb; Spread; Feta; Feisty; Grecian Delight #SAL03030,0402-2414004,Raw Material,Deposit (By Hand),02-Condiments,1,Pound, $6.16 
+04-Flavor,BULK; 4/6lb; Sofrito; Asian-Style; Custom Culinary #66735VAVN,0401-11646,Raw Material,Deposit,01-Sauces,1,Pound, $5.13 
+04-Flavor,BULK; 1/25lb; Spice Blend; Lemon Pepper; TrueSpice Foods,0404-10657,Raw Material,Sprinkle,04-Spices,1,Pound, $5.25 
+04-Flavor,BULK; 1/19lb; Paste; Harissa; Signature; New York Shuk,0401-11607,Raw Material,Deposit,01-Sauces,1,Pound, $5.83 
+01-Protein,BULK; 6/5lb; Chicken; Breast; BL/SL; Whole; Marinated; LemonRosemary; Raw; (5oz pc); Standard #81713,0101-9391,Raw Material,Item Count,01-Bird,1,Pound, $4.79 
+01-Protein,Chicken; Thighs; Whole; Southwest-Style; Seared; SousVide; Colorado Premium #90084; 16/ct,0101-2422901,Raw Material,Item Place (Bags),01-Bird,4,Each, $5.38 
+01-Protein,BULK; 6/5lb; Chicken; Breast; BL/SL; Whole; Marinated; Chipotle Lime; Raw; (5oz pc); Standard #81716,0101-10037,Raw Material,Item Count,01-Bird,1,Pound, $4.94 
+04-Flavor,BULK; 1/3lb; Spearmint; Dried; Crushed; Woodland #H89,0404-11047,Raw Material,Sprinkle,04-Spices,1,Pound, $6.32 
+02-Produce,BULK; Spinach; Baby; Washed,0202-10504,Raw Material,Weigh - Bulk,02-Fresh,1,Pound, $5.62 
+04-Flavor,BULK; 1/12lb; Parsley; Dried; Woodland #OH96D,0404-10480,Raw Material,Sprinkle,04-Spices,1,Pound, $9.24 
+01-Protein,BULK; 4/5lb; Turkey; Carnitas; NAE; Cooked; Diestel #2260104,0101-11602,Raw Material,Weigh - Protein,01-Bird,1,Pound, $5.62 
+01-Protein,BULK; 8/2.5lb; Chicken; Thigh; BL/SL; NAE;  Diced; Cooked; Cuisine Solutions #05554,0101-11598,Raw Material,Weigh - Protein,01-Bird,1,Pound, $5.70 
+01-Protein,BULK; 6/5lb; Chicken; Breast; BL/SL; Whole; TOPS only; Unseasoned; Raw; (5.5oz pc); Standard #81719,0101-10978,Raw Material,Item Count,01-Bird,1,Pound, $5.38 
+01-Protein,BULK; 6/3lb; Chicken; Breast; Cutlet; BL/SL; NAE; Season/Breaded; (4.5oz pc) Cooked; Crown #FG20140,0101-11601,Raw Material,Item Count,01-Bird,1,Pound, $7.47 
+01-Protein,BULK; 2/5lb; Beef; Crumbles; Cooked; Seasoned; ABF; Burke #127916,0102-10983,Raw Material,Volume Scoop,02-Land,1,Pound, $3.99 
+01-Protein,Chicken; Breast; BL/SL; Rotisserie; Cooked; Deli Star #99782; 509g; 18oz,0101-11547,Raw Material,Item Place (Bags),01-Bird,1.125,Each, $6.02 
+01-Protein,BULK; 5/2lb; Shrimp; 26-30 ct; Tail Off; P/D; Farmed; Cooked; Red Chamber #0731CPD26,0103-11152,Raw Material,Weigh - Protein,03-Sea,1,Pound, $6.67 
+01-Protein,BULK; 2/12lb; Pork; Smoked; Pieces; NAE; Cooked; Deli Star #30027,0102-11619,Raw Material,Weigh - Protein,02-Land,1,Pound, $7.18 
+01-Protein,BULK; 4/5lb; Chicken; Breast; BL/SL; Shredded; ABF; Cooked; Rastelli #72028ABFBULK,0101-11613,Raw Material,Weigh - Protein,01-Bird,1,Pound, $6.12 
+03-Starch,"Enchiladas; Cheese; 5 to 5.25in; Me Gusta (8, 3oz pieces): 680g; 24oz",0302-11441,Raw Material,Item Place (Bags),02-Cooked,1.5,Each, $6.33 
+04-Flavor,BULK; 1/25lb; Seasoning Blend; Cajun; TrueSpice,0404-11401,Raw Material,Sprinkle,04-Spices,1,Pound, $6.81 
+01-Protein,BULK; 165/12lb; Sausage; Sweet Italian; Crumbles; Seasoned; Cooked; Deli Star#30010,0102-11517,Raw Material,Weigh - Protein,02-Land,1,Pound, $6.00 
+04-Flavor,BULK; 1/20lb; Parsley; Flakes; Dried; TrueSpice,0404-11388,Raw Material,Sprinkle,04-Spices,1,Pound, $6.79 
+04-Flavor,BULK; 3/1.9lb; Sauce; Pesto; Cilantro; Armanino #1806F,0401-11595,Raw Material,Deposit,01-Sauces,1,Pound, $6.28 
+04-Flavor,BULK; 1/9.67lb; Marinade; Fajita Pineapple; Europena #3001577,0401-10990,Raw Material,Deposit,01-Sauces,1,Pound, $7.37 
+04-Flavor,BULK; 1/9.6lb; Marinade; Caribbean-Style Jerk; Europena #1149677,0401-11177,Raw Material,Deposit,01-Sauces,1,Pound, $7.29 
+05-Dairy,BULK; 1/30lb; Cheese; Cream; Sundried Tomato Blend; Epicurean #00045,0504-24036000,Raw Material,Volume Scoop,04-Misc,1,Pound, $6.65 
+04-Flavor,BULK; 4/8.34lb; Syrup; Maple; Dark; Grade A; Sugarman,0403-11250,Raw Material,Deposit (By Hand),03-Oil/Vinegar/Juice/Broth,1,Pound, $9.90 
+04-Flavor,BULK; 1/9.86lb; Marinade; Chipotle Maple; Europena #1312877,0401-10991,Raw Material,Deposit,01-Sauces,1,Pound, $7.69 
+01-Protein,BULK; 2/5lb; Bacon; Chips; Cooked; Burke #16173,0102-11685,Raw Material,Volume Scoop,02-Land,1,Pound, $7.30 
+04-Flavor,Sauce; Paella; Custom Culinary #6622; 906g; 32oz,0401-2406402,Raw Material,Item Place (Bags),01-Sauces,2,Each, $7.02 
+04-Flavor,BULK 10/3lbs; Sauce; Basil Pesto; Pacifica #03017,0401-10105,Raw Material,Deposit,01-Sauces,1,Pound, $7.34 
+01-Protein,Pork; Belly; Chashu; Seasoned; Sliced; 4.5mm; Cooked; Pocino #42483; 453g; 16oz,0102-11248,Raw Material,Item Place (Bags),02-Land,0,Each, $7.14 
+01-Protein,Sausage; Pork; Sweet Italian; Crumbles; DeliStar #30012; 340g; 12oz,0102-11694,Raw Material,Item Place (Bags),02-Land,0.75,Each, $7.40 
+01-Protein,BULK; 8/5lb; Chicken; Breast; BL/SL; Whole; Grilled; ABF; (4oz pc); Cooked; Rastelli #53225ABFBULK,0101-11618,Raw Material,Item Count,01-Bird,1,Pound, $7.34 
+01-Protein,Beef; Skirt Steak; Seasoned; Raw; 283g; 10 oz; Agostino #126587,0102-10757,Raw Material,Item Place (Bags),02-Land,0,Each, $6.63 
+04-Flavor,BULK; 1/8lb; Cilantro; Chopped; Dried; Woodland #OH631,0404-10479,Raw Material,Sprinkle,04-Spices,1,Pound, $8.98 
+04-Flavor,BULK; 1/15lb; Seasoning Blend; Italian Herb; Salt Free; Woodland Spice #H305D,0404-10845,Raw Material,Sprinkle,04-Spices,1,Pound, $6.11 
+01-Protein,BULK; 2/5lb; Beef; Fajita Strips; Cooked; John Soules #654804,0102-10481,Raw Material,Weigh - Protein,02-Land,1,Pound, $7.52 
+01-Protein,BULK; 1/10lb; Beef; Patties; Seasoned; Grass Fed; ABF; IQF; Coooked; (3.2 oz pc); Strauss #70522,0102-11687,Raw Material,Item Count,02-Land,1,Pound, $6.74 
+04-Flavor,BULK; 12/16.9oz; Oil; Extra Virgin; Natural Lemon Flavor; Roland #76643,0403-11124,Raw Material,Deposit (By Hand),03-Oil/Vinegar/Juice/Broth,1,Pound, $8.91 
+01-Protein,BULK; 10/12oz; Salmon; Fillet; Grill Marks; Cooked; 3oz pieces; Trident Seafood #416748,0103-10608,Raw Material,Item Count,03-Sea,1,Pound, $8.36 
+01-Protein,BULK; 10/1lb; Salmon; Fillet; Grill Marks; Cooked; (4oz pc); Trident Seafood #410337,0103-11253,Raw Material,Item Count,03-Sea,1,Pound, $8.36 
+01-Protein,BULK; 1/10lb; Salmon; Atlantic; BL/SL; Center Cut; Raw; (5oz pieces); Red Chamber #CH1796ATSLM5,0103-10956,Raw Material,Item Count,03-Sea,1,Pound, $8.44 
+01-Protein,BULK; 2/5lb; Bacon; Crumbled; All Natural; Uncured; Cooked; Latitude 36 Item #20295,0102-10834,Raw Material,Volume Scoop,02-Land,1,Pound, $8.24 
+04-Flavor,BULK; 1/25lb; Chili; Japones; Whole; Dried; TrueSpice,0405-2407902,Raw Material,Volume Scoop,05-Nuts/Seeds/Dried Fruit,1,Pound, $8.20 
+01-Protein,BULK; 5/5lb; Beef; Braised; Top Blade; Diced; Cuisine Solutions #FY23M108,0102-11503,Raw Material,Weigh - Protein,02-Land,1,Pound, $8.50 
+01-Protein,BULK; 10/3lb; Pork; Tenderolin; Medallions; ABF; SV Cooked; (1 oz pc); Agostino #128241,0102-11680,Raw Material,Item Count,02-Land,1,Pound, $8.95 
+01-Protein,BULK; 4/2.5lb; Sausage; Andouille; Beef/Pork; Nitrite/Nitrate Free; .25in Coins; Cooked; PLF #ASAMZ1,0102-10723,Raw Material,Weigh - Protein,02-Land,1,Pound, $7.95 
+01-Protein,BULK; 2/5lb; Sausage; Pork; Sweet Italian; Sliced; NAE; Cooked; Crown 1 #G20142,0102-11645,Raw Material,Weigh - Protein,02-Land,1,Pound, $9.45 
+01-Protein,BULK; 2/12lb; Beef; Brisket; Shredded; Grass-fed; NAE; Cooked; Deli Star #30041,0102-11620,Raw Material,Weigh - Protein,02-Land,1,Pound, $10.14 
+01-Protein,Chicken; Breast; BL/SL; NAE; Sliced; Seared; Sous Vide; Cooked; Deli Star #39782; 509g; 18oz,0101-11654,Raw Material,Item Place (Bags),01-Bird,1.125,Each, $9.90 
+04-Flavor,BULK; 1/40lb; Scallion; Green Onions; Dried; TrueSpice,0404-11592,Raw Material,Sprinkle,04-Spices,1,Pound, $12.94 
+01-Protein,Beef; Diced; Braised; Smoke Flavor Added; Deli Star #40502; 509g; 18oz,0102-11357,Raw Material,Item Place (Bags),02-Land,0,Each, $8.98 
+01-Protein,BULK; 2/5lb; Bacon; Crumbled; Uncured; Applewood Smoked; Cooked; NC Smokehouse #10037,0102-11600,Raw Material,Volume Scoop,02-Land,1,Pound, $11.16 
+01-Protein,BULK; 8/4lb; Beef; Sirloin Steak; Seasoned; Grilled; Cooked (med); (4oz pc); Agostino #128230,0102-11681,Raw Material,Item Count,02-Land,1,Pound, $10.95 
+01-Protein,BULK; 5/3lb; Beef; Chunks (4oz pc); Braised; Short Ribs Style Top Blade; Cuisine Solutions #03501,0102-10724,Raw Material,Weigh - Protein,02-Land,1,Pound, $11.00 
+01-Protein,BULK; 2/5lb; Sausage; Chorizo; Sliced; NAE; Crown One; FG#20152,0102-2422201,Raw Material,Weigh - Protein,02-Land,1,Pound, $11.00 
+04-Flavor,BULK; 3/5lb; Pepper; Black,0404-10914,Raw Material,Sprinkle,04-Spices,1,Pound, $17.96 
+01-Protein,BULK; 10/1lb; Salmon; Atlantic; BL/SL; Fillet; Cooked; Scored; (4oz pc); Rastelli #5211206TRI,0103-11597,Raw Material,Item Count,03-Sea,1,Pound, $14.56 
+01-Protein,Chicken; Thigh; BL/SL; Whole 4oz pc; Southwest-Style; Seared; SousVide; DeliStar #33548; 1811g; 64oz,0101-2409301,Raw Material,Item Place (Bags),01-Bird,4,Each, $20.66 
+04-Flavor,BULK; 3/8.8lbs; Sauce; Sweet Chili; Mae Ploy,0401-10463,Raw Material,Deposit,01-Sauces,1,Pound, $3.05 
+03-Starch,Enchiladas; Cheese; Monterey Jack; Los Cabos #64180; 85g; 3oz,0302-2414001,Raw Material,Item Count,02-Cooked,0.1875,Each, $0.84 
+04-Flavor,BULK; 2/22lb; Sauce; Pesto; Basil; Armanino #20501,0401-11577,Raw Material,Deposit,01-Sauces,1,Pound, $2.60 

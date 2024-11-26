@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fresh Realm PICL</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link to external CSS file if separated -->
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+    <style>
+        /* CSS styles are included here */
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        header {
+            background-color: #76AE8F;
+            padding: 10px 20px;
+            display: flex;
+            align-items: center;
+            min-height: 125px;
+        }
+        header img.logo {
+            height: 105px;
+            width: auto;
+            margin-right: 20px;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            color: #fff;
+            margin: 0;
+            text-align: center;
+            flex: 1;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .description {
+            margin-bottom: 20px;
+        }
+        .description p {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #555;
+        }
+        .filter-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .filter-bar input,
+        .filter-bar select {
+            padding: 12px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            outline: none;
+            flex: 1 1 180px;
+        }
+        .filter-bar button {
+            padding: 12px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 5px;
+            background-color: #76AE8F;
+            color: white;
+            cursor: pointer;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            padding: 15px 20px;
+            border-bottom: 1px solid #e0e0e0;
+            text-align: left;
+        }
+        th {
+            background-color: #f0f4f3;
+        }
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="freshrealm.png" alt="Company Logo" class="logo">
+        <h1>Pantry Item Cost Lookup - Prepared Meals</h1>
+    </header>
+    <div class="container">
+        <div class="description">
+            <p>
+                Welcome to the Pantry Item Cost Lookup. Use the filters below to search for ingredients by category, 
+                subcategory, stock unit, part number, or description. The data table will update automatically based 
+                on your selections. Click the "Reset Filters" button to clear all filters and view the full dataset.
+            </p>
+        </div>
+        <div class="filter-bar">
+            <select id="category" onchange="filterData()">
+                <option value="">All Categories</option>
+            </select>
+            <select id="subCategory" onchange="filterData()">
+                <option value="">All Sub Categories</option>
+            </select>
+            <select id="stockUnit" onchange="filterData()">
+                <option value="">All Stock Units</option>
+            </select>
+            <input type="text" id="partNumberSearch" oninput="filterData()" placeholder="Search part number...">
+            <input type="text" id="search" oninput="filterData()" placeholder="Search description...">
+            <button id="resetButton" onclick="resetFilters()">Reset Filters</button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th data-column="category">Category</th>
+                    <th data-column="partNumber">Part Number</th>
+                    <th data-column="subCategory">Sub Category</th>
+                    <th data-column="stockUnit">Stock Unit</th>
+                    <th data-column="totalMaterialCost">Total Material Cost</th>
+                    <th data-column="description">Description</th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                <!-- Data rows will be dynamically populated -->
+            </tbody>
+        </table>
+    </div>
+    <!-- Include external JavaScript file if separated -->
+    <!-- <script src="script.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+    <script>
+        // JavaScript code is included here
+        let dataSet = [];
+        let filteredData = [];
+        let sortColumn = null;
+        let sortDirection = 'asc';
+
+        async function fetchData() {
+            try {
+                const response = await fetch('MasterData.csv');
+                const csvText = await response.text();
+                const parsedData = Papa.parse(csvText, {
+                    header: true,
+                    skipEmptyLines: true
+                });
+
+                dataSet = parsedData.data.map(row => ({
+                    category: row['Category']?.trim() || '',
+                    partNumber: row['Part Number']?.trim() || '',
+                    subCategory: row['Sub Category']?.trim() || '',
+                    stockUnit: row['Stock Unit']?.trim() || '',
+                    totalMaterialCost: row['Total Material Cost']?.trim() || '',
+                    description: row['Description']?.trim() || ''
+                }));
+
+                populateFilters();
+                filterData();
+            } catch (error) {
+                console.error("Error fetching data:", error);
+            }
+        }
+
+        function populateFilters() {
+            populateDropdown('category', 'category');
+            updateSubCategoryDropdown();
+            populateDropdown('stockUnit', 'stockUnit');
+        }
+
+        function populateDropdown(elementId, property) {
+            const dropdown = document.getElementById(elementId);
+            dropdown.innerHTML = `<option value="">All ${property.replace(/([A-Z])/g, ' $1')}</option>`;
+            const options = [...new Set(dataSet.map(row => row[property]).filter(Boolean))].sort();
+
+            options.forEach(optionValue => {
+                const option = document.createElement('option');
+                option.value = optionValue;
+                option.textContent = optionValue;
+                dropdown.appendChild(option);
+            });
+        }
+
+        function updateSubCategoryDropdown() {
+            const category = document.getElementById('category').value.toLowerCase();
+            const subCategoryDropdown = document.getElementById('subCategory');
+            const currentSubCategory = subCategoryDropdown.value; // Preserve current selection
+            subCategoryDropdown.innerHTML = '<option value="">All Sub Categories</option>';
+
+            const filteredSubCategories = [
+                ...new Set(
+                    dataSet
+                        .filter(row => !category || row.category.toLowerCase() === category)
+                        .map(row => row.subCategory)
+                        .filter(Boolean)
+                ),
+            ].sort();
+
+            filteredSubCategories.forEach(subCategory => {
+                const option = document.createElement('option');
+                option.value = subCategory;
+                option.textContent = subCategory;
+                subCategoryDropdown.appendChild(option);
+            });
+
+            if (filteredSubCategories.includes(currentSubCategory)) {
+                subCategoryDropdown.value = currentSubCategory;
+            } else {
+                subCategoryDropdown.value = ""; 
+            }
+        }
+
+        function filterData() {
+            const search = document.getElementById("search").value.toLowerCase();
+            const partNumberSearch = document.getElementById("partNumberSearch").value.toLowerCase();
+            const category = document.getElementById("category").value.toLowerCase();
+            const subCategory = document.getElementById("subCategory").value.toLowerCase();
+            const stockUnit = document.getElementById("stockUnit").value.toLowerCase();
+
+            filteredData = dataSet.filter(row => {
+                const matchesCategory = !category || row.category.toLowerCase() === category;
+                const matchesSubCategory = !subCategory || row.subCategory.toLowerCase() === subCategory;
+                const matchesStockUnit = !stockUnit || row.stockUnit.toLowerCase() === stockUnit;
+                const matchesPartNumber = !partNumberSearch || row.partNumber.toLowerCase().includes(partNumberSearch);
+                const matchesSearch = !search || row.description.toLowerCase().includes(search);
+                return matchesCategory && matchesSubCategory && matchesStockUnit && matchesPartNumber && matchesSearch;
+            });
+
+            updateSubCategoryDropdown();
+            displayData(filteredData);
+        }
+
+        function resetFilters() {
+            document.getElementById("category").value = "";
+            document.getElementById("subCategory").value = "";
+            document.getElementById("stockUnit").value = "";
+            document.getElementById("partNumberSearch").value = "";
+            document.getElementById("search").value = "";
+            sortColumn = null;
+            sortDirection = 'asc';
+            populateFilters();
+            filterData();
+        }
+
+        function displayData(data) {
+            const tableBody = document.getElementById("table-body");
+            tableBody.innerHTML = "";
+
+            const searchTerm = document.getElementById("search").value.toLowerCase();
+            const partNumberSearchTerm = document.getElementById("partNumberSearch").value.toLowerCase();
+
+            data.forEach(row => {
+                const tr = document.createElement("tr");
+
+                const highlightedDescription = highlightText(row.description, searchTerm);
+                const highlightedPartNumber = highlightText(row.partNumber, partNumberSearchTerm);
+
+                tr.innerHTML = `
+                    <td>${row.category}</td>
+                    <td>${highlightedPartNumber}</td>
+                    <td>${row.subCategory}</td>
+                    <td>${row.stockUnit}</td>
+                    <td>${row.totalMaterialCost}</td>
+                    <td>${highlightedDescription}</td>
+                `;
+                tableBody.appendChild(tr);
+            });
+        }
+
+        function highlightText(text, searchTerm) {
+            if (!searchTerm) return text;
+            const regex = new RegExp(`(${searchTerm})`, 'gi');
+            return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        fetchData();
+    </script>
+</body>
+</html>
