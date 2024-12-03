@@ -86,6 +86,19 @@
         }
         th {
             background-color: #f0f4f3;
+            cursor: pointer;
+            position: relative;
+            user-select: none;
+        }
+        th.sort-asc::after {
+            content: " ▲";
+            position: absolute;
+            right: 10px;
+        }
+        th.sort-desc::after {
+            content: " ▼";
+            position: absolute;
+            right: 10px;
         }
         .highlight {
             background-color: yellow;
@@ -166,6 +179,7 @@
 
                 populateFilters();
                 filterData();
+                addHeaderSortListeners();
             } catch (error) {
                 console.error("Error fetching data:", error);
             }
@@ -249,11 +263,38 @@
             sortDirection = 'asc';
             populateFilters();
             filterData();
+            updateSortIcons();
         }
 
         function displayData(data) {
             const tableBody = document.getElementById("table-body");
             tableBody.innerHTML = "";
+
+            // Sort data if sortColumn is set
+            if (sortColumn) {
+                data = data.slice(); // Create a copy of the data array
+                data.sort((a, b) => {
+                    let valA = a[sortColumn];
+                    let valB = b[sortColumn];
+
+                    // Handle numbers for totalMaterialCost
+                    if (sortColumn === 'totalMaterialCost') {
+                        valA = parseFloat(valA.replace(/[^0-9.-]+/g,"")) || 0;
+                        valB = parseFloat(valB.replace(/[^0-9.-]+/g,"")) || 0;
+                    } else {
+                        valA = valA.toString().toLowerCase();
+                        valB = valB.toString().toLowerCase();
+                    }
+
+                    if (valA < valB) {
+                        return sortDirection === 'asc' ? -1 : 1;
+                    }
+                    if (valA > valB) {
+                        return sortDirection === 'asc' ? 1 : -1;
+                    }
+                    return 0;
+                });
+            }
 
             const searchTerm = document.getElementById("search").value.toLowerCase();
             const partNumberSearchTerm = document.getElementById("partNumberSearch").value.toLowerCase();
@@ -280,6 +321,38 @@
             if (!searchTerm) return text;
             const regex = new RegExp(`(${searchTerm})`, 'gi');
             return text.replace(regex, '<span class="highlight">$1</span>');
+        }
+
+        function addHeaderSortListeners() {
+            const headers = document.querySelectorAll('th[data-column]');
+            headers.forEach(header => {
+                header.addEventListener('click', () => {
+                    const column = header.getAttribute('data-column');
+                    sortTable(column);
+                });
+            });
+        }
+
+        function sortTable(column) {
+            if (sortColumn === column) {
+                sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+            } else {
+                sortColumn = column;
+                sortDirection = 'asc';
+            }
+            displayData(filteredData);
+            updateSortIcons();
+        }
+
+        function updateSortIcons() {
+            const headers = document.querySelectorAll('th[data-column]');
+            headers.forEach(header => {
+                const column = header.getAttribute('data-column');
+                header.classList.remove('sort-asc', 'sort-desc');
+                if (column === sortColumn) {
+                    header.classList.add(sortDirection === 'asc' ? 'sort-asc' : 'sort-desc');
+                }
+            });
         }
 
         fetchData();
